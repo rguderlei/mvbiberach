@@ -1,0 +1,10 @@
+{{ $imagename := (.Get 0) }}
+
+{{ printf "%#v" $imagename }}
+
+{{ $options := .Get 1 }}
+{{ with .Site.GetPage "section" "media" }}
+  {{ $image := (.Site.Resources.GetMatch ($imagename)).Resize $options }}
+  <img src="{{ $image.RelPermalink }}">
+{{ end }}
+

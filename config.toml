@@ -1,0 +1,75 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Musikverein Biberach e.V.'
+theme = 'universal'
+
+[markup.goldmark.renderer]
+hardWraps = true
+unsafe = true
+
+
+[[menu.main]]
+    name       = "Über uns"
+    identifier = "menu.aboutus"
+    url        = ""
+    weight     = 1
+
+[[menu.main]]
+    name       = "Der Verein"
+    identifier = "menu.verein"
+    url        = "/mvb/about"
+    weight     = 1
+    parent = "menu.aboutus"
+
+
+[[menu.main]]
+    name       = "Satzung"
+    identifier = "menu.satzung"
+    url        = "/mvb/satzung"
+    weight     = 2
+    parent = "menu.aboutus"
+
+[[menu.main]]
+    name       = "Geschichte"
+    identifier = "menu.geschichte"
+    url        = "/mvb/geschichte"
+    weight     = 3
+    parent = "menu.aboutus"
+
+
+[[menu.main]]
+    name = "Sinfonieorchester"
+    identifier = "menu.sinf"
+    url  = "/sinf"
+    weight = 2
+
+[[menu.main]]
+    name = "Stadtkapelle"
+    url  = "/skp"
+    weight = 3
+
+[params]
+    disabled_logo = false
+    style = 'red'
+    logo_text = "Universal"
+    logo = "img/logos/logo-mvb.gif"
+    logo_small = "img/logo-small.png"
+    copyright = "(c) 2023 Musikverein Biberach e.V. &mdash; <a href='/impressum'>Impressum</a> &mdash; <a href='/datenschutz'>Datenschutzerklärung</a> &mdash; <a href='/contact'>Kontakt</a>"
+
+[params.carouselHomepage]
+    # All carousel items are defined in their own files. You can find example items
+    # at 'exampleSite/data/carousel'.
+    # For more information take a look at the README.
+    enable = true
+    auto_play = true
+    slide_speed = 2000
+    pagination_speed = 1000
+
+[params.features]
+    enable = true
+    cols = 2
+
+[params.clients]
+    enable = true
+    title = "Wir danken unseren Sponsoren"
+    subtitle = ""
