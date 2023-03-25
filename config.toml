@@ -53,7 +53,7 @@ unsafe = true
     style = 'red'
     logo_text = "Universal"
     logo = "img/logos/logo-mvb.gif"
-    logo_small = "img/logo-mvb.gif"
+    logo_small = "img/logos/logo-mvb.gif"
     copyright = "(c) 2023 Musikverein Biberach e.V. &mdash; <a href='/impressum'>Impressum</a> &mdash; <a href='/datenschutz'>Datenschutzerklärung</a> &mdash; <a href='/contact'>Kontakt</a>"
 
 [params.carouselHomepage]
