@@ -1,0 +1,70 @@
+backend:
+  name: github
+  repo: rguderlei/mvbiberach
+  branch: main
+
+publish_mode: editorial_workflow
+media_folder: "static/images/uploads" # Media files will be stored in the repo under static/images/uploads
+public_folder: "/images/uploads" # The src attribute for uploaded media will begin with /images/uploads
+
+collections:
+  - label: "MVB"
+    name: "mvb"
+    files:
+      - label: "Über"
+        name: "Über"
+        file: "content/mvb/about.md"
+        fields:
+          - {label: Titel, name: title, widget: string}
+          - {label: Inhalt, name: body, widget: markdown}
+      - label: "Geschichte"
+        name: "Geschichte"
+        file: "content/mvb/geschichte.md"
+        fields:
+          - {label: Titel, name: title, widget: string}
+          - {label: Inhalt, name: body, widget: markdown}
+      - label: "Satzung"
+        name: "Satzung"
+        file: "content/mvb/satzung.md"
+        fields:
+          - {label: Titel, name: title, widget: string}
+          - {label: Inhalt, name: body, widget: markdown}
+  - label: "Sinfonieorchester"
+    name: "sinf"
+    files:
+      - label: "Sinfonieorchester"
+        name: "Sinfonieorchester"
+        file: "content/sinf/index.md"
+        fields:
+          - {label: Titel, name: title, widget: string}
+          - {label: Inhalt, name: body, widget: markdown}   
+  - label: "Stadtkapelle"
+    name: "skp"
+    files:
+      - label: "Stadtkapelle"
+        name: "Stadtkapelle"
+        file: "content/skp/index.md"
+        fields:
+          - {label: Titel, name: title, widget: string}
+          - {label: Inhalt, name: body, widget: markdown}   
+  - label: "Sonstiges"
+    name: "pages"
+    files:
+      - label: "Kontakt"
+        name: "Kontakt"
+        file: "content/contact.md"
+        fields:
+          - {label: Titel, name: title, widget: string}
+          - {label: Inhalt, name: body, widget: markdown}
+      - label: "Datenschutz"
+        name: "datenschutz"
+        file: "content/datenschutz.md"
+        fields:
+          - {label: Titel, name: title, widget: string}
+          - {label: Inhalt, name: body, widget: markdown}
+      - label: "Impressum"
+        name: "impressum"
+        file: "content/impressum.md"
+        fields:
+          - {label: Titel, name: title, widget: string}
+          - {label: Inhalt, name: body, widget: markdown}
