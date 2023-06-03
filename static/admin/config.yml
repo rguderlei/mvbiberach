@@ -8,6 +8,47 @@ media_folder: "static/images/uploads" # Media files will be stored in the repo u
 public_folder: "/images/uploads" # The src attribute for uploaded media will begin with /images/uploads
 
 collections:
+  - label: "Startseite - Aktuelles"
+    name: "News"
+    folder: "data/carousel"
+    create: false
+    extension: yaml
+    format: yaml
+    editor:
+      preview: false
+    fields: 
+     - {label: Platzierung, name: weight, widget: string}
+     - {label: Titel, name: title, widget: string}
+     - {label: Inhalt, name: description, widget: string}
+     - {label: Bild, name: image, widget: string}
+  - label: "Startseite - Orchester"
+    name: "orchester"
+    folder: "data/features"
+    create: false
+    extension: yaml
+    format: yaml
+    identifier_field: name
+    editor:
+      preview: false
+    fields: 
+     - {label: Platzierung, name: weight, widget: string}
+     - {label: Name, name: name, widget: string}
+     - {label: Inhalt, name: description, widget: string}
+     - {label: Icon, name: icon, widget: string}   
+     - {label: Link, name: url, widget: string}   
+  - label: "Startseite - Sponsoren"
+    name: "sponsors"
+    folder: "data/clients"
+    create: false
+    extension: yaml
+    format: yaml
+    identifier_field: name
+    editor:
+      preview: false
+    fields: 
+     - {label: Name, name: name, widget: string}
+     - {label: Bild, name: image, widget: string}   
+     - {label: Link, name: url, widget: string}   
   - label: "MVB"
     name: "mvb"
     files:
