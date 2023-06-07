@@ -1,7 +1,8 @@
 baseURL = 'http://example.org/'
-languageCode = 'en-us'
+languageCode = 'de-de'
 title = 'Musikverein Biberach e.V.'
 theme = 'universal'
+DefaultContentLanguage = "de"
 
 [markup.goldmark.renderer]
 hardWraps = true
@@ -36,17 +37,22 @@ unsafe = true
     weight     = 3
     parent = "menu.aboutus"
 
+[[menu.main]]
+    name = "Termine"
+    identifier = "menu.termine"
+    url  = "/blog/"
+    weight = 2
 
 [[menu.main]]
     name = "Sinfonieorchester"
     identifier = "menu.sinf"
     url  = "/sinf"
-    weight = 2
+    weight = 3
 
 [[menu.main]]
     name = "Stadtkapelle"
     url  = "/skp"
-    weight = 3
+    weight = 4
 
 [params]
     disabled_logo = false
