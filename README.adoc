@@ -14,3 +14,6 @@ build background image for carousel
 montage grid/*.jpg -tile 8x5 -geometry +0+0 -background none grid.jpg
 ```
 
+## iCal
+
+/blog/index.ics

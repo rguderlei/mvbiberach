@@ -16,12 +16,13 @@ collections:
     fields:
           - {label: Titel, name: title, widget: string}
           - {label: Begin, name: begin, widget: datetime}
+          - {label: Ende, name: end, widget: datetime}
           - label: "Orchester"
             name: "orchester"
             widget: "select"
             options: ["Gesamtverein", "Sinfonieorchester", "Stadtkapelle"]
-          - { label: Ort, name: ort, widget: string}  
-          - {label: "Plakat", name: "plakat", widget: "image", required: false}
+          - { label: Ort, name: location, widget: string}  
+          - {label: "Plakat", name: "banner", widget: "image", required: false}
           - {label: Inhalt, name: body, widget: markdown} 
   - label: "Startseite - Aktuelles"
     name: "News"

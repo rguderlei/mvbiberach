@@ -8,7 +8,10 @@ DefaultContentLanguage = "de"
 hardWraps = true
 unsafe = true
 
-
+[outputs]
+    section = ["HTML", "RSS", "Calendar"]
+    categories = ["HTML", "RSS", "Calendar"]
+   
 [[menu.main]]
     name       = "Über uns"
     identifier = "menu.aboutus"
