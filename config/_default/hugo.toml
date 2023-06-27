@@ -57,6 +57,12 @@ unsafe = true
     url  = "/skp"
     weight = 4
 
+[[menu.main]]
+    name = "Bilder"
+    identifier = "menu.bilder"
+    url  = "/gallery/"
+    weight = 5
+
 [params]
     disabled_logo = false
     style = 'red'
