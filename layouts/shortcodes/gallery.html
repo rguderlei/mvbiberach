@@ -1,0 +1,26 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.1/css/lightbox.min.css" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.1/js/lightbox.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/masonry/4.2.2/masonry.pkgd.min.js" integrity="sha512-JRlcvSZAXT8+5SQQAvklXGJuxXTouyq8oIMaYERZQasB8SBDHZaUbeASsJWpk0UUrf89DP3/aefPPrlMR1h1yQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+
+<style>
+    .grid-item {
+        margin-bottom: 5px;
+    }
+</style>
+
+<div class="container-fluid">
+<div class="grid" data-masonry='{ "itemSelector": ".grid-item", "columnWidth": ".grid-sizer" }'>    
+    <div class="grid-sizer col-xs-4"></div>
+{{ $image := (.Page.Resources.ByType "image") }}
+{{ with $image }}
+    {{ range . }}
+    {{ $resized := .Resize "200x q20" }}
+    <div class="grid-item col-lg-2">
+        <a class="content" href="{{ .Permalink }}" data-lightbox="x"><img src="{{ $resized.Permalink }}" /></a>
+    </div>
+    {{ end }}
+{{ end }}
+</div>
+</div>

@@ -2,7 +2,7 @@
 title = "Stadtkapelle"
 +++
 
-![Stadtkapelle beim Promenadenkonzert](/img/skp_promenadenkonzert.jpg "Promenadenkonzert")
+{{< figure src="/img/skp_promenadenkonzert.jpg" caption="Stadtkapelle beim Promenadenkonzert" >}}
 
 Die Stadtkapelle des Musikvereins Biberach ist ein Blasorchester, das sich vorwiegend konzertanter Blasmusik widmet. Dieses Jahr können wir mit Stolz unser 100-jähriges Bestehen feiern, wobei unsere Wurzeln sogar bis ins Jahr 1768 zurückreichen.
 

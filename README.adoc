@@ -17,3 +17,15 @@ montage grid/*.jpg -tile 8x5 -geometry +0+0 -background none grid.jpg
 ## iCal
 
 /blog/index.ics
+
+## Todo
+
+- Bilder
+https://christianspecht.de/2020/08/10/creating-an-image-gallery-with-hugo-and-lightbox2/
+- Archiv
+- Probenplan
+
+## Einschränkungen
+
+- Migration: Termine, Bilder, Presse
+- iCal nur für Konzerte
