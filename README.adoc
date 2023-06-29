@@ -19,9 +19,6 @@ montage grid/*.jpg -tile 8x5 -geometry +0+0 -background none grid.jpg
 /blog/index.ics
 
 ## Todo
-
-- Bilder
-https://christianspecht.de/2020/08/10/creating-an-image-gallery-with-hugo-and-lightbox2/
 - Archiv
 - Probenplan
 
