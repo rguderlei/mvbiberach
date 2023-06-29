@@ -6,10 +6,11 @@ backend:
 publish_mode: editorial_workflow
 media_folder: "static/img/uploads" # Media files will be stored in the repo under static/images/uploads
 public_folder: "/img/uploads" # The src attribute for uploaded media will begin with /images/uploads
+locale: 'de'
 
 collections:
   - label: "Termine"
-    name: ter,ome
+    name: termine
     folder: content/blog
     create: true
     slug: "{{year}}-{{month}}-{{day}}_{{slug}}"
@@ -18,9 +19,13 @@ collections:
           - {label: Begin, name: begin, widget: datetime}
           - {label: Ende, name: end, widget: datetime}
           - label: "Orchester"
-            name: "orchester"
+            name: "categories"
             widget: "select"
+            multiple: true
+            min: 1
+            max: 1
             options: ["Gesamtverein", "Sinfonieorchester", "Stadtkapelle"]
+            default: ["Gesamtverein"]
           - { label: Ort, name: location, widget: string}  
           - {label: "Plakat", name: "banner", widget: "image", required: false}
           - {label: Inhalt, name: body, widget: markdown} 
