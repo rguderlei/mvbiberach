@@ -16,6 +16,8 @@ montage grid/*.jpg -tile 8x5 -geometry +0+0 -background none grid.jpg
 
 ## iCal
 
+iCal feeds are provided as custom output formats in Hugo.
+
 /blog/index.ics
 
 ## Todo

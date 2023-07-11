@@ -18,9 +18,9 @@
 
         <div id="content">
             <div class="container">
-                {{ .RelPermalink }} > /that-page/
-                {{ with  .OutputFormats.Get "ics" -}}
-                {{ .RelPermalink }} > /that-page/index.ics
+                
+                {{ with  .OutputFormats.Get "calendar" -}}
+                <p>Konzerte als <a href="{{ .RelPermalink }}" >Kalender</a></p>
                 {{- end }}
                 <div class="row">
                     <!-- *** LEFT COLUMN *** -->
