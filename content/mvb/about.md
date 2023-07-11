@@ -18,7 +18,7 @@ Der Musikverein unterhält derzeit zwei Orchester:
 |<img src="/img/Portrait_Placeholder.png" style="padding:10px" height="200px" >|<img src="/img/Portrait_Placeholder.png" style="padding:10px" height="200px" >|<img src="/img/Portrait_Placeholder.png" style="padding:10px" height="200px" >|
 | Vorsitzender: <br /> NN | Geschäftsführer: <br />Josia Assmies | Musik. Leitung Sinfonieorchester: <br />MD Andreas Winter|
 |<img src="/img/Portrait_Placeholder.png" style="padding:10px" height="200px" >|<img src="/img/Portrait_Placeholder.png" style="padding:10px" height="200px" >|<img src="/img/Portrait_Placeholder.png" style="padding:10px" height="200px" >|
-| Schriftführer: <br />Dr. Gerhard Nehmitz | Vertretung der fördernden Mitglieder: <br />Cornelia Bauer |Kassiererin: <br />Esther Pfalzer|
+| Schriftführer: <br />Dr. Gerhard Nehmiz | Vertretung der fördernden Mitglieder: <br />Cornelia Bauer |Kassiererin: <br />Esther Pfalzer|
 |<img src="/img/Portrait_Placeholder.png" style="padding:10px" height="200px" >|<img src="/img/Portrait_Placeholder.png" style="padding:10px" height="200px" >||
 | Vorstand der Stadtkapelle: <br />Dr. Ralph Guderlei | Vorstand des Sinfonieorchesters: <br />Klaus Pfalzer | |
 
