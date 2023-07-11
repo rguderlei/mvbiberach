@@ -41,8 +41,8 @@ unsafe = true
     parent = "menu.aboutus"
 
 [[menu.main]]
-    name = "Termine"
-    identifier = "menu.termine"
+    name = "Konzerte"
+    identifier = "menu.konzerte"
     url  = "/blog/"
     weight = 2
 
