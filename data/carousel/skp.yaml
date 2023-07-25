@@ -1,9 +1,9 @@
 weight: 3
-title: "Promenaden- <br>konzert"
+title: "Herbst- <br>konzert"
 description: >
   <ul class="list-style-none">
-    <li>So, 16.17.2023, 9:30 Uhr</li>
-    <li>Stadtgarten</li>
+    <li>So, 19.11.2023, 20:00 Uhr</li>
+    <li>Gigelberghalle</li>
   </ul>  
-image: "img/skp_promenadenkonzert.jpg"
-href: "/skp"
+image: "/img/uploads/Stadtkapelle_Herbstkonzert_2022.jpg"
+href: "/blog/2023-11-19_herbstkonzert"
