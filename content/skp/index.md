@@ -4,6 +4,8 @@ title = "Stadtkapelle"
 
 {{< figure src="/img/skp_promenadenkonzert.jpg" caption="Stadtkapelle beim Promenadenkonzert" >}}
 
+<br />
+
 Die Stadtkapelle des Musikvereins Biberach ist ein Blasorchester, das sich vorwiegend konzertanter Blasmusik widmet. Dieses Jahr können wir mit Stolz unser 100-jähriges Bestehen feiern, wobei unsere Wurzeln sogar bis ins Jahr 1768 zurückreichen.
 
 Regelmäßige musikalische Termine sind das festliche Dreikönigskonzert in der Biberacher St.-Martins-Kirche, eine Serenade im Sommer unter freiem Himmel und das Herbstkonzert. Jedes Konzert hat seinen eigenen musikalischen Schwerpunkt: beim Dreikönigskonzert klassische Musik und Kirchenmusik, bei der Serenade im Sommer gehobene Unterhaltungsmusik aus Jazz und Pop und beim Herbstkonzert sinfonische Blasmusik. Als Biberacher Musikverein beteiligen wir uns natürlich auch am Schützenfest, unter anderem mit einem Promenadenkonzert im Stadtgarten. Wir umrahmen zudem für die Stadt Biberach immer wieder diverse Anlässe musikalisch, wie zum Beispiel den Bürgertag.
@@ -31,9 +33,11 @@ Aktuelle Informationen finden Sie auch auf dem [Instagram](https://instagram.com
 | Vorstand: Dr. Ralph Guderlei | stellv. Vorstand: Christina Butz |
 
 
-Ausschussmitglieder: Dr. Ulrike Küfner-Mühl, Julia Ludwig, Joachim Mayer
+### Ausschussmitglieder
+Dr. Ulrike Küfner-Mühl, Julia Ludwig, Joachim Mayer
 
-Dirigent (interim): Martin Remke
+### Dirigent (interim)
+Martin Remke
 
 
 
