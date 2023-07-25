@@ -18,24 +18,25 @@
 
         <div id="content">
             <div class="container">
-                {{ .RelPermalink }} > /that-page/
-                {{ with  .OutputFormats.Get "ics" -}}
-                {{ .RelPermalink }} > /that-page/index.ics
+                
+                {{ with  .OutputFormats.Get "calendar" -}}
+                <p>Konzerte als <a href="{{ .RelPermalink }}" >Kalender</a></p>
                 {{- end }}
                 <div class="row">
                     <!-- *** LEFT COLUMN *** -->
                     
                     <div class="col-md-9" id="blog-listing-medium">
-                        {{ range .Paginator.Pages }}
+                        {{ $sorted := (.Pages.ByParam "begin").Reverse }}
+                        {{ range (.Paginate $sorted).Pages }}
                         <section class="post">
                             <div class="row">
                                 <div class="col-md-4">
                                   <div class="image">
                                       <a href="{{ .Permalink }}">
                                           {{ if .Params.banner }}
-                                          <img src="{{ .Params.banner | relURL }}" class="img-responsive" alt="">
+                                          <img src="{{ .Params.banner | relURL }}" style="height: 140px" class="img-responsive img-thumbnail" alt="">
                                           {{ else }}
-                                          <img src="{{ "img/placeholder.png" | relURL }}" class="img-responsive" alt="">
+                                          <img src="{{ "/img/uploads/missing.png" | relURL }}" class="img-responsive" alt="">
                                           {{ end }}
                                       </a>
                                   </div>
