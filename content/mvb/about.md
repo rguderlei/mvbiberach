@@ -15,11 +15,11 @@ Der Musikverein unterhält derzeit zwei Orchester:
 
 |          |                    |            |
 |----------|--------------------|------------|
-|<img src="/img/Portrait_Placeholder.png" style="padding:10px" height="200px" >|<img src="/img/Portrait_Placeholder.png" style="padding:10px" height="200px" >|<img src="/img/Portrait_Placeholder.png" style="padding:10px" height="200px" >|
+|<img src="/img/Portrait_Placeholder.png" class="img-responsive img-responsive-table" >|<img src="/img/Portrait_Placeholder.png" class="img-responsive img-responsive-table" >|<img src="../Andreas_Winter.jpg" class="img-responsive img-responsive-table" >|
 | Vorsitzender: <br /> NN | Geschäftsführer: <br />Josia Assmies | Musik. Leitung Sinfonieorchester: <br />MD Andreas Winter|
-|<img src="/img/Portrait_Placeholder.png" style="padding:10px" height="200px" >|<img src="/img/Portrait_Placeholder.png" style="padding:10px" height="200px" >|<img src="/img/Portrait_Placeholder.png" style="padding:10px" height="200px" >|
+|<img src="../Gerhard_Nehmiz.jpg" class="img-responsive-table" >|<img src="../Cornelia_Bauer.jpg" class="img-responsive-table" >|<img src="../Esther_Pfalzer.jpg" class="img-responsive-table" >|
 | Schriftführer: <br />Dr. Gerhard Nehmiz | Vertretung der fördernden Mitglieder: <br />Cornelia Bauer |Kassiererin: <br />Esther Pfalzer|
-|<img src="/img/Portrait_Placeholder.png" style="padding:10px" height="200px" >|<img src="/img/Portrait_Placeholder.png" style="padding:10px" height="200px" >||
+|<img src="../Ralph_Guderlei.png" class="img-responsive-table" >|<img src="../Klaus_Pfalzer.jpg" class="img-responsive-table"  >||
 | Vorstand der Stadtkapelle: <br />Dr. Ralph Guderlei | Vorstand des Sinfonieorchesters: <br />Klaus Pfalzer | |
 
 ## JOI

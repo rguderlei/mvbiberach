@@ -1,3 +1,8 @@
 .home-carousel {
     background-image: url("../img/style/grid.jpg");
 }
+
+img.img-responsive-table {
+    height: 250px!important;
+    padding: 10px;
+}
