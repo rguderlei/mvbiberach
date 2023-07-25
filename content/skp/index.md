@@ -13,7 +13,6 @@ Regelmäßige musikalische Termine sind das festliche Dreikönigskonzert in der 
 Konzertreisen führten in der Vergangenheit bis nach Japan, auf die Insel Guernsey im Ärmelkanal, im Frühjahr 2011 nach Russland und zu den internationalen Wertungsspielen "Flicorno d'Oro" in Riva del Garda am Gardasee und in Dornbirn/Österreich.
 
 Die Stadtkapelle Biberach wird derzeit durch unser Mitglied Martin Remke dirigiert.
-**Ein neuer Dirigent wird momentan gesucht.**
 
 Wer Freude am gemeinsamen Musizieren hat und sich gerne zusammen mit Gleichgesinnten im Bereich der sinfonischen Blasmusik treffen möchte, ist  jederzeit in die wöchentlichen Proben willkommen. Wir proben außerhalb der Schulferien immer montags von 20:00-22:00 Uhr im Bruno-Frey-Saal der Musikschule Biberach. Bitte einfach Kontakt mit uns aufnehmen unter stadtkapelle@mvbiberach.de.
 
