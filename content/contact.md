@@ -4,15 +4,12 @@ id = "contact"
 +++
 
 Musikverein Biberach an der Riss e.V.
-Geschäftsführer Michael Nover
-Eppenaustraße 17
-88433 Schemmerhofen
+Geschäftsführer Josia Assmies
 www.mvbiberach.de
 
 Geschäftsführer:
-Michael Nover 
-Telefon 07356 928928
-michael.nover(ät)mvbib ...
+Josia Assmies
+geschaeftsfuehrer(ät)mvbib ...
 
 Vorsitzender:
 Dr. Andreas Holland
