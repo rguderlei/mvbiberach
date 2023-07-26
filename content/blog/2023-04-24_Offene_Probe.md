@@ -8,5 +8,5 @@ location: Bruno-Frey-Musikschule
 banner: /img/uploads/Offene_Probe_11_Kopie.jpg
 type: blog
 ---
-## Programm
 
+Alle, die Freude an guter Blasmusik haben, sind herzlich eingeladen, mit uns zu musizieren und im Anschluss den Abend gemeinsam ausklingen zu lassen.

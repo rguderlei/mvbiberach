@@ -8,6 +8,18 @@ location: Stadtgarten
 banner: /img/uploads/skp_promenadenkonzert.jpg
 type: blog
 ---
+
 ## Programm
 
-TBD
+Washington Post - John Philip Sousa
+Einzugsmarsch aus dem Zigeunerbaron - Johann Strau&szlig; Arr. Clifford Barnes
+Estudiantina - Emil Waldteufel Arr. Siegfried Rundel
+Persischer Marsch - Johann Strau&szlig; Arr. Stefan Schwalgin
+Zauber der Alpen - Alexander Pfluger, Alphorn-Solo: Heike Waibel und Klaus Geyer 
+Deutschmeister-Regimentsmarsch - Wilhelm August Jurek
+Annen-Polka - Johann Strau&szlig; Arr. Siegfried Rundel
+Ciribiribin - A. Pestalozza
+Colonel Bogey - Kenneth Alford
+Watermelon Man - Herbie Hancock Arr. Markus G&ouml;tz
+Frederikus Rex - Ferdinand Radeck
+Congratulations - Bill Martin Arr. Luc Rodenmacher

@@ -10,23 +10,12 @@ type: blog
 ---
 ## Programm
 
-<p>Anton Bruckner: Ouvert&uuml;re g-moll</p>
-\
+Anton Bruckner: Ouvert&uuml;re g-moll
+Bernhard Molique: Konzert f&uuml;r Akkordeon, Streicher und Pauken, Solistin: Theresa Monsees
+Felix Mendelssohn-Bartholdy: Sinfonie Nr. 3 a-moll op. 56 &quot;Schottische&quot;
 
-\
-<p>Bernhard Molique: Konzert f&uuml;r Akkordeon, Streicher und Pauken, Solistin: Theresa Monsees</p>
-\
+Leitung: Musikdirektor Andreas Winter
+Solistin: Theresa Monsees, Akkordeon
 
-\
-<p>Felix Mendelssohn-Bartholdy: Sinfonie Nr. 3 a-moll op. 56 &quot;Schottische&quot;</p>
-\
+Im Anschluss an das Konzert kann, gemeinsam mit den Musikern, im Foyer an der Kulturbar gefeiert werden!
 
-\
-<p>Leitung: Musikdirektor Andreas Winter<br />
-\
-Solistin: Theresa Monsees, Akkordeon</p>
-\
-
-\
-<p>Im Anschluss an das Konzert kann, gemeinsam mit den Musikern, im Foyer an der Kulturbar gefeiert werden!</p>
-\
