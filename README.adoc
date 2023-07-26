@@ -1,20 +1,37 @@
 # Website MV Biberach
 
-## Getting started
+## Inhalte bearbeiten
 
-- install Hugo https://gohugo.io/
-- clone this repo
-- run ```hugo server```
+### Vorbedingungen
 
-## Tips and tricks
+- Account bei GitHub
+- Berechtigungen für dieses Repository
 
-build background image for carousel
+### Netlify CMS
+
+
+
+### lokale Entwicklung
+
+- Hugo https://gohugo.io/ installieren
+- dieses Repo clonen
+- ```hugo server```
+- Änderungen vornehmen
+- Änderungen pushen: main wird direkt produktiv deployed
+
+## Technische Details
+
+### Verwendete Technologien
+
+### Howto
+
+Hintergrundbild für Startseite mit ImageMagick
 
 ```
 montage grid/*.jpg -tile 8x5 -geometry +0+0 -background none grid.jpg
 ```
 
-## iCal
+### iCal
 
 iCal feeds are provided as custom output formats in Hugo.
 
@@ -28,3 +45,7 @@ iCal feeds are provided as custom output formats in Hugo.
 
 - Migration: Termine, Bilder, Presse
 - iCal nur für Konzerte
+
+## Quellen
+
+https://chringel.dev/2022/05/automatically-deploy-a-hugo-website-to-a-remote-host-using-github-actions/
