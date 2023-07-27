@@ -5,8 +5,8 @@ title = "Impressum"
 ### Verantwortlich für den Inhalt:
 
 Musikverein Biberach an der Riß e.V.
-Eppenaustr. 17
-88433 Ingerkingen
+Adam-Ries-Straße 27
+88471 Laupheim
 
 geschaeftsfuehrer(ät)mvbiberach.de
 

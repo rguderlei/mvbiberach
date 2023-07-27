@@ -5,6 +5,9 @@ id = "contact"
 
 Musikverein Biberach an der Riss e.V.
 Geschäftsführer Josia Assmies
+Adam-Ries-Straße 27
+88471 Laupheim
+
 www.mvbiberach.de
 
 Geschäftsführer:
