@@ -58,7 +58,7 @@ jobs:
       - name: Rsync Deployments Action
         uses: Burnett01/rsync-deployments@5.2
         with:
-          switches: -avzr --delete --omit-dir-times
+          switches: -avzr --delete --omit-dir-times --no-perms
           path: public/
           remote_path: ${{ secrets.DEPLOY_PATH }}
           remote_host: ${{ secrets.DEPLOY_HOST }}
