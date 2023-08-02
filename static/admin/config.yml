@@ -14,6 +14,8 @@ collections:
     folder: content/blog
     create: true
     slug: "{{year}}-{{month}}-{{day}}_{{slug}}/index"
+    summary: "{{begin | date('DD.MM.YYYY')}} - {{title}}"
+    sortable_fields: ["title", "begin"]
     media_folder: ''
     public_folder: ''
     nested:
