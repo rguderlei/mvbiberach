@@ -53,7 +53,8 @@ jobs:
         run: |
           hugo \
             --gc \
-            --minify      
+            --minify \      
+            --baseURL mvbiberach.de
       - name: Rsync Deployments Action
         uses: Burnett01/rsync-deployments@5.2
         with:
