@@ -2,7 +2,7 @@
 title = "Stadtkapelle"
 +++
 
-{{< figure src="/img/skp_promenadenkonzert.jpg" caption="Stadtkapelle beim Promenadenkonzert" >}}
+{{< figure src="promenadenkonzert_2023.jpg" caption="Stadtkapelle beim Promenadenkonzert 2023" >}}
 
 <br />
 
