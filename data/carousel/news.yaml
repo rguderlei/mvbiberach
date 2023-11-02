@@ -1,8 +1,7 @@
 weight: 1
-title: "Aktuelles"
-description: >
-  <ul>
-    <li>In den Sommerferien finden keine Proben statt. Nach den Ferien beginnt die Vorbereitung auf das Herbstkonzert (Stadtkapelle) und das Winterkonzert (Sinfonieorchester)</li>
-  </ul>  
-image: "img/skp_horn.jpg"
-href: "/contact"
+title: Aktuelles
+description: "<ul>  <li>Unsere Ensembles stecken mitten in den Vorbereitungen
+  für die kommenden Konzerte, das Herbstkonzert (Stadtkapelle) und das
+  Winterkonzert (Sinfonieorchester)</li></ul>  "
+image: img/skp_horn.jpg
+href: /contact
