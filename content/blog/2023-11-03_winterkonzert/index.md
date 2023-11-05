@@ -7,4 +7,4 @@ categories:
 location: Stadthalle Biberach
 banner: sinfonieorchester-des-musikvereins-komprimiert.jpg
 ---
-Leitung: Musikdirektot Andreas Winter, Solist: Christoph Schweizer, Bassbariton
+Leitung: Musikdirektor Andreas Winter, Solist: Christoph Schweizer, Bassbariton
