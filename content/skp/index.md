@@ -1,7 +1,6 @@
-+++
-title = "Stadtkapelle"
-+++
-
+---
+title: Stadtkapelle
+---
 {{< figure src="promenadenkonzert_2023.jpg" caption="Stadtkapelle beim Promenadenkonzert 2023" >}}
 
 <br />
@@ -14,7 +13,7 @@ Konzertreisen führten in der Vergangenheit bis nach Japan, auf die Insel Guerns
 
 Die Stadtkapelle Biberach wird derzeit durch unser Mitglied Martin Remke dirigiert.
 
-Wer Freude am gemeinsamen Musizieren hat und sich gerne zusammen mit Gleichgesinnten im Bereich der sinfonischen Blasmusik treffen möchte, ist  jederzeit in die wöchentlichen Proben willkommen. Wir proben außerhalb der Schulferien immer montags von 20:00-22:00 Uhr im Bruno-Frey-Saal der Musikschule Biberach. Bitte einfach Kontakt mit uns aufnehmen unter stadtkapelle@mvbiberach.de.
+Wer Freude am gemeinsamen Musizieren hat und sich gerne zusammen mit Gleichgesinnten im Bereich der sinfonischen Blasmusik treffen möchte, ist  jederzeit in die wöchentlichen Proben willkommen. Wir proben außerhalb der Schulferien immer montags von 20:00-22:00 Uhr im Bruno-Frey-Saal der Musikschule Biberach. Bitte einfach Kontakt mit uns aufnehmen unter **stadtkapelle@mvbiberach.de**.
 
 Aktuell proben wir unter anderem
 
@@ -26,18 +25,15 @@ Aktuelle Informationen finden Sie auch auf dem [Instagram](https://instagram.com
 
 ## Vorstand
 
-|          |                    |
-|----------|--------------------|
-| <img src="ralph_guderlei.png" style="padding:10px" height="250px" >| <img src="christina_butz.jpg" height="250px" style="padding:10px">|!
-| Vorstand: Dr. Ralph Guderlei | stellv. Vorstand: Christina Butz |
-
+|                                                                     |                                                                    |     |
+| ------------------------------------------------------------------- | ------------------------------------------------------------------ | --- |
+| <img src="ralph_guderlei.png" style="padding:10px" height="250px" > | <img src="christina_butz.jpg" height="250px" style="padding:10px"> | !   |
+| Vorstand: Dr. Ralph Guderlei                                        | stellv. Vorstand: Christina Butz                                   |     |
 
 ### Ausschussmitglieder
+
 Dr. Ulrike Küfner-Mühl, Julia Ludwig, Joachim Mayer
 
 ### Dirigent (interim)
+
 Martin Remke
-
-
-
- 
