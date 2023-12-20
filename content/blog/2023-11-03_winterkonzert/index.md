@@ -13,9 +13,9 @@ Johannes Brahms: Akademische Festouvertüre op. 80
 
 Ludwig van Beethoven: aus der Oper "Fidelio" die Arie des Rocco "Hat man nicht auch Gold beineben"
 
-Richard Wagner: aus der Oper "Die Meistersinger von Nürnberg" die Arie des Hans Sachs "Verachtet mir die Meister nicht"
-
 Léon Boellmann/Jörg Riedlbauer: Suite Gothique op. 25
+
+Richard Wagner: aus der Oper "Die Meistersinger von Nürnberg" die Arie des Hans Sachs "Verachtet mir die Meister nicht"
 
 Pause
 
