@@ -11,3 +11,10 @@ categories:
 ---
 ## Programm
 
+Fanny Mendelssohn-Hensel: Ouvertüre C-Dur
+
+John Rutter: Suite for Strings
+
+Peter Joseph von Lindpaintner: Sinfonia concertante für Holzbläserquintett und Orchester F-Dur op. 44
+
+Franz Schubert: Sinfonie h-moll D 759, die "Unvollendete"
