@@ -2,7 +2,7 @@
 title = "Sinfonieorchester"
 +++
 
-{{< figure src="sinfonieorchester_2014.jpg" caption="" >}}
+{{< figure src="sinfonieorchester_2024.jpg" caption="" width="100%" >}}
 
 <br />
 Das Sinfonieorchester des Musikvereins Biberach, dessen Wurzeln bis ins Jahr 1768 zurückreichen, ist ein groß besetztes Orchester mit über 65 Musikerinnen und Musikern, das sich vorwiegend sinfonischer Musik widmet. Auch Bühnenwerke wie zuletzt "Der Wildschütz" von Albert Lortzing oder "Wiener Blut" von Johann Strauß gehören zum breiten Spektrum des Repertoires. Das Sinfonieorchester wird seit 2002 vom städtischen Musikdirektor Andreas Winter geleitet.
