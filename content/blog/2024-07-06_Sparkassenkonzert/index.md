@@ -13,8 +13,17 @@ categories:
 
 Fanny Mendelssohn-Hensel: Ouvertüre C-Dur
 
-John Rutter: Suite for Strings
+John Rutter: Suite for Strings (Dirigent: Günther Luderer)
 
-Peter Joseph von Lindpaintner: Sinfonia concertante für Holzbläserquintett und Orchester F-Dur op. 44
+Peter Josef von Lindpaintner - Sinfonia Concertante in F-Dur für Holzbläserquintett und Orchester, Op.44\
+Solisten:\
+Clara von Lorentz, Flöte\
+Lara Hauptmann, Oboe\
+Elisabeth Christ, Klarinette\
+Theresa Maucher, Horn\
+Julia Reichardt, Fagott
 
-Franz Schubert: Sinfonie h-moll D 759, die "Unvollendete"
+Franz Schubert: Sinfonie in h-Moll D 759 „Unvollendete“
+
+Sinfonieorchester des Musikvereins Biberach\
+Leitung: Musikdirektor Andreas Winter
