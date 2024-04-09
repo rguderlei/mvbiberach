@@ -1,8 +1,7 @@
-+++
-title = "Kontakt"
-id = "contact"
-+++
-
+---
+title: Kontakt
+id: contact
+---
 Musikverein Biberach an der Riss e.V.
 Geschäftsführer Josia Assmies
 Adam-Ries-Straße 27
@@ -14,10 +13,9 @@ Geschäftsführer:
 Josia Assmies
 geschaeftsfuehrer(ät)mvbib ...
 
-Vorsitzender:
-Dr. Andreas Holland
-Telefon 07351 181669
-andreas.holland(ät)mvbib...
+Vorsitzender:\
+Johannes Walter\
+Johannes.Walter@mvbiberach.de
 
 Musikalischer Leiter Sinfonieorchester:
 Musikdirektor Andreas Winter
