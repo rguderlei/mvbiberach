@@ -15,7 +15,7 @@ geschaeftsfuehrer(ät)mvbib ...
 
 Vorsitzender:\
 Johannes Walter\
-Johannes.Walter@mvbiberach.de
+Johannes.Walter(ät)mvbiberach.de
 
 Musikalischer Leiter Sinfonieorchester:
 Musikdirektor Andreas Winter
