@@ -78,6 +78,7 @@ unsafe = true
     weight = 5
 
 [params]
+    date_format = "02 Jan 2006"
     disabled_logo = false
     style = 'red'
     logo_text = "Universal"
@@ -101,4 +102,4 @@ unsafe = true
 [params.clients]
     enable = true
     title = "Wir danken unseren Sponsoren"
-    subtitle = ""
+    subtitle = "Wir würden uns auch über über Ihre <a href='/mvb/support'>Unterstützung</a> freuen"
