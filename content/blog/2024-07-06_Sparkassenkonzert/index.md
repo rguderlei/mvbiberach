@@ -1,11 +1,11 @@
 ---
 title: Sparkassenkonzert - Spitalhofserenade
-date: "2024-07-07T19:00Z"
+date: "2024-07-07T20:00Z"
 banner: Klassik_Open_Air_2015-20_k.jpg
 location: Spitalhof
 type: blog
-begin: 2024-07-07T19:00:00Z
-end: 2024-07-07T21:00:00Z
+begin: 2024-07-07T20:00:00Z
+end: 2024-07-07T22:00:00Z
 categories: ["Sinfonieorchester"]
 ---
 ## Programm
