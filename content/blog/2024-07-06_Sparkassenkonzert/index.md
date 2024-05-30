@@ -1,11 +1,11 @@
 ---
-begin: 2024-07-06T21:00:00.000Z
+begin: 2024-07-07T21:00:00.000Z
 banner: Klassik_Open_Air_2015-20_k.jpg
 date: 2024-07-07T20:00Z
-title: Sparkassenkonzert - Spitalhofserenade
-location: Spitalhof
+title: Sparkassenkonzert - Serenade im Pflugschulhof
+location: Hof der Pflugschule
 type: blog
-end: 2024-07-07T22:00:00.000Z
+end: 2024-07-06T22:00:00.000Z
 categories:
   - Sinfonieorchester
 ---
