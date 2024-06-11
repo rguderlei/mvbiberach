@@ -1,6 +1,6 @@
 ---
 begin: 2024-07-07T20:00:00.000Z
-banner: Klassik_Open_Air_2015-20_k.jpg
+banner: quintett.jpg
 date: 2024-07-07T20:00Z
 title: Sparkassenkonzert - Serenade im Pflugschulhof
 location: Hof der Pflugschule
@@ -9,7 +9,7 @@ end: 2024-07-06T22:00:00.000Z
 categories:
   - Sinfonieorchester
 ---
-## Programm
+## Programm:
 
 Fanny Mendelssohn-Hensel: Ouvertüre C-Dur
 
