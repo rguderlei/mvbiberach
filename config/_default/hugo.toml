@@ -102,4 +102,4 @@ unsafe = true
 [params.clients]
     enable = true
     title = "Wir danken unseren Sponsoren"
-    subtitle = "Wir würden uns auch über über Ihre <a href='/mvb/support'>Unterstützung</a> freuen"
+   # subtitle = "Wir würden uns auch über über Ihre <a href='/mvb/support'>Unterstützung</a> freuen"
