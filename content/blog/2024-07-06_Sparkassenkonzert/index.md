@@ -2,7 +2,7 @@
 begin: 2024-07-07T20:00:00.000Z
 banner: quintett.jpg
 date: 2024-07-07T20:00Z
-title: Sparkassenkonzert - Serenade im Pflugschulhof
+title: Sparkassenkonzert - Serenade verlegt ins HHEF (Dollinger Realschule)
 location: Hof der Pflugschule
 type: blog
 end: 2024-07-06T22:00:00.000Z
