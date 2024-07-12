@@ -1,7 +1,7 @@
 ---
 title: Herbstkonzert
-begin: 2024-11-17T16:00:00.000Z
-end: 2024-11-17T18:00:02.811Z
+begin: 2024-11-17T17:00:00.000Z
+end: 2024-11-17T19:00:02.811Z
 categories:
   - Stadtkapelle
 location: Gigelberghalle
