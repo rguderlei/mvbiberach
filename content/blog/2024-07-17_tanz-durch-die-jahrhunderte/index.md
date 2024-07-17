@@ -1,7 +1,7 @@
 ---
 title: Tanz durch die Jahrhunderte
-begin: 2024-07-17T19:00:46.786Z
-end: 2024-07-17T20:00:46.805Z
+begin: 2024-07-17T18:00:46.786Z
+end: 2024-07-17T19:00:46.805Z
 categories:
   - Gesamtverein
 location: Marktplatz Biberach
