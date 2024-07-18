@@ -32,7 +32,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      HUGO_VERSION: 0.111.3
+      HUGO_VERSION: 0.128.2
     steps:
       - name: Install Hugo CLI
         run: |
@@ -41,7 +41,7 @@ jobs:
       - name: Install Dart Sass Embedded
         run: sudo snap install dart-sass-embedded
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           submodules: recursive
           fetch-depth: 0
@@ -55,7 +55,7 @@ jobs:
             --gc \
             --minify
       - name: Rsync Deployments Action
-        uses: Burnett01/rsync-deployments@5.2
+        uses: Burnett01/rsync-deployments@7
         with:
           switches: -avzr --delete --omit-dir-times --no-perms
           path: public/
