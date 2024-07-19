@@ -13,7 +13,7 @@ Konzertreisen führten in der Vergangenheit bis nach Japan, auf die Insel Guerns
 
 Die Stadtkapelle Biberach wird durch Simon Föhr dirigiert.
 
-Wer Freude am gemeinsamen Musizieren hat und sich gerne zusammen mit Gleichgesinnten im Bereich der sinfonischen Blasmusik treffen möchte, ist  jederzeit in die wöchentlichen Proben willkommen. Wir proben außerhalb der Schulferien immer montags von ***19:30-21:30 Uhr*** im Bruno-Frey-Saal der Musikschule Biberach. Bitte einfach Kontakt mit uns aufnehmen unter **stadtkapelle@mvbiberach.de**.
+Wer Freude am gemeinsamen Musizieren hat und sich gerne zusammen mit Gleichgesinnten im Bereich der sinfonischen Blasmusik treffen möchte, ist  jederzeit in die wöchentlichen Proben willkommen. Wir proben außerhalb der Schulferien immer montags von 19:30-21:30 Uhr im Bruno-Frey-Saal der Musikschule Biberach. Bitte einfach Kontakt mit uns aufnehmen unter **stadtkapelle@mvbiberach.de**.
 
 Aktuell proben wir unter anderem
 
