@@ -15,7 +15,7 @@ Der Musikverein unterhält derzeit zwei Orchester:
 
 {{< grid >}}
 {{< row >}}
-{{< thumbnail src="/img/Portrait_Placeholder.png" title="Johannes Walter" text="Vorsitzender" >}}
+{{< thumbnail src="/mvb/Johannes_Walter.jpg" title="Johannes Walter" text="Vorsitzender" >}}
 {{< thumbnail src="/mvb/Josia_Assmies.jpg" title="Josia Assmies" text="Geschäftsführer" >}}
 {{< thumbnail src="/mvb/Esther_Pfalzer.jpg" title="Esther Pfalzer" text="Schatzmeisterin" >}}
 {{< /row >}}
