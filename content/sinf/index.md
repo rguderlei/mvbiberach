@@ -9,12 +9,21 @@ Das Sinfonieorchester des Musikvereins Biberach, dessen Wurzeln bis ins Jahr 176
 Die engagierten Laien, unterstützt durch einige Musikschullehrer, widmen sich im Winterkonzert der Musik von Beethoven bis Tschaikowsky, von Lutoslavski bis Gershwin. Die Sparkassenkonzerte, als Klassik-Open Air auf dem Biberacher Marktplatz (z.B. Carmina Burana) oder im Museumshof, das Brahms-Requiem und die „Songs of Sanctuary“ von Karl Jenkins in der Stadtpfarrkirche St. Martin und seit 40 Jahren die Mitwirkung beim „Tanz durch die Jahrhunderte“ anlässlich des Biberacher Schützenfestes - all das zeigt die Vielfältigkeit und Leistungsfähigkeit des Orchesters. Bühnenwerke wie "Der Wildschütz" von Albert Lortzing oder "Wiener Blut" von Johann Strauß gehören ebenso zum breiten Spektrum des Repertoires.
 Auch in den Biberacher Partnerstädten Schweidnitz (Polen), Valence (Frankreich), Asti (Italien) und zuletzt auf der Kanalinsel Guernsey trat das Ensemble mit großem Erfolg auf.
 
-## Vorstand
+## Dirigent 
 
-|                                                                    |                                                                      |     |
-| ------------------------------------------------------------------ | -------------------------------------------------------------------- | --- |
-| <img src="Klaus_Pfalzer.jpg" style="padding:10px" height="250px" > | <img src="Edgar_Finkbeiner.jpg" height="250px" style="padding:10px"> | !   |
-| Vorstand: Klaus Pfalzer                                            | stellv. Vorstand: Edgar Finkbeiner                                   |     |
+{{< grid >}}
+{{< row >}}
+{{< thumbnail src="/mvb/Andreas_Winter.jpg" title="MD Andreas Winter" text="" >}}
+{{< /row >}}
+{{< /grid >}}   
+
+## Vorstand
+{{< grid >}}
+{{< row >}}
+{{< thumbnail src="Klaus_Pfalzer.jpg" title="Klaus Pfalzer" text="Vorstand" >}}
+{{< thumbnail src="Edgar_Finkbeiner.jpg" title="Edgar Finkbeiner" text="stellv. Vorstand" >}}
+{{< /row >}}
+{{< /grid >}}   
 
 ### Ausschussmitglieder
 

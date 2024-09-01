@@ -13,14 +13,24 @@ Der Musikverein unterhält derzeit zwei Orchester:
 
 ## Vorstand
 
-|          |                    |            |
-|----------|--------------------|------------|
-|<img src="/img/Portrait_Placeholder.png" class="img-responsive img-responsive-table" >|<img src="../Josia_Assmies.jpg" class="img-responsive img-responsive-table" >|<img src="../Andreas_Winter.jpg" class="img-responsive img-responsive-table" >|
-| Vorsitzender: <br /> Johannes Walter | Geschäftsführer: <br />Josia Assmies | Musik. Leitung Sinfonieorchester: <br />MD Andreas Winter|
-|<img src="../Gerhard_Nehmiz.jpg" class="img-responsive-table" >|<img src="../Cornelia_Bauer.jpg" class="img-responsive-table" >|<img src="../Esther_Pfalzer.jpg" class="img-responsive-table" >|
-| Schriftführer: <br />Dr. Gerhard Nehmiz | Vertretung der fördernden Mitglieder: <br />Cornelia Bauer |Kassiererin: <br />Esther Pfalzer|
-|<img src="../Ralph_Guderlei.png" class="img-responsive-table" >|<img src="../Klaus_Pfalzer.jpg" class="img-responsive-table"  >||
-| Vorstand der Stadtkapelle: <br />Dr. Ralph Guderlei | Vorstand des Sinfonieorchesters: <br />Klaus Pfalzer | |
+{{< grid >}}
+{{< row >}}
+{{< thumbnail src="/img/Portrait_Placeholder.png" title="Johannes Walter" text="Vorsitzender" >}}
+{{< thumbnail src="/mvb/Josia_Assmies.jpg" title="Josia Assmies" text="Geschäftsführer" >}}
+{{< thumbnail src="/mvb/Esther_Pfalzer.jpg" title="Esther Pfalzer" text="Schatzmeisterin" >}}
+{{< thumbnail src="/mvb/Gerhard_Nehmiz.jpg" title="Dr. Gerhard Nehmiz" text="Schriftführer" >}}
+{{< /row >}}
+{{< row >}}
+{{< thumbnail src="/mvb/Klaus_Pfalzer.jpg" title="Klaus Pfalzer" text="Vorstand Sinfonieorchester" >}}
+{{< thumbnail src="/mvb/Andreas_Winter.jpg" title="MD Andreas Winter" text="musikalische Leitung Sinfonieorchester" >}}
+{{< thumbnail src="/mvb/Ralph_Guderlei.png" title="Dr.Ralph Guderlei" text="Vorstand Stadtkapelle" >}}
+{{< thumbnail src="/img/Portrait_Placeholder.png" title="Simon Föhr" text="musikalische Leitung Stadtkapelle" >}}
+{{< /row >}}
+{{< row >}}
+{{< thumbnail src="/mvb/Cornelia_Bauer.jpg" title="Cornelia Bauer" text="Vertretung der fördernden Mitglieder" >}}
+{{< /row >}}
+{{< /grid >}}  
+
 
 ## JOI
 

@@ -24,14 +24,19 @@ Aktuelle Informationen finden Sie auch auf dem [Instagram](https://instagram.com
 
 ## Dirigent 
 
-Simon Föhr
+{{< grid >}}
+{{< row >}}
+{{< thumbnail src="/img/Portrait_Placeholder.png" title="Simon Föhr" text="" >}}
+{{< /row >}}
+{{< /grid >}}   
 
 ## Vorstand
-
-|                                                                     |                                                                    |     |
-| ------------------------------------------------------------------- | ------------------------------------------------------------------ | --- |
-| <img src="ralph_guderlei.png" style="padding:10px" height="250px" > | <img src="christina_butz.jpg" height="250px" style="padding:10px"> | !   |
-| Vorstand: Dr. Ralph Guderlei                                        | stellv. Vorstand: Christina Butz                                   |     |
+{{< grid >}}
+{{< row >}}
+{{< thumbnail src="ralph_guderlei.png" title="Dr.Ralph Guderlei" text="Vorstand" >}}
+{{< thumbnail src="christina_butz.jpg" title="Christina Butz" text="stellv. Vorstand" >}}
+{{< /row >}}
+{{< /grid >}}   
 
 ## Ausschussmitglieder
 
