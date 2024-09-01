@@ -18,16 +18,16 @@ Der Musikverein unterhält derzeit zwei Orchester:
 {{< thumbnail src="/img/Portrait_Placeholder.png" title="Johannes Walter" text="Vorsitzender" >}}
 {{< thumbnail src="/mvb/Josia_Assmies.jpg" title="Josia Assmies" text="Geschäftsführer" >}}
 {{< thumbnail src="/mvb/Esther_Pfalzer.jpg" title="Esther Pfalzer" text="Schatzmeisterin" >}}
+{{< /row >}}
+{{< row >}}
 {{< thumbnail src="/mvb/Gerhard_Nehmiz.jpg" title="Dr. Gerhard Nehmiz" text="Schriftführer" >}}
-{{< /row >}}
-{{< row >}}
 {{< thumbnail src="/mvb/Klaus_Pfalzer.jpg" title="Klaus Pfalzer" text="Vorstand Sinfonieorchester" >}}
-{{< thumbnail src="/mvb/Andreas_Winter.jpg" title="MD Andreas Winter" text="musikalische Leitung Sinfonieorchester" >}}
-{{< thumbnail src="/mvb/Ralph_Guderlei.png" title="Dr.Ralph Guderlei" text="Vorstand Stadtkapelle" >}}
-{{< thumbnail src="/img/Portrait_Placeholder.png" title="Simon Föhr" text="musikalische Leitung Stadtkapelle" >}}
+{{< thumbnail src="/mvb/Andreas_Winter.jpg" title="MD Andreas Winter" text="musik. Leitung Sinfonieorchester" >}}
 {{< /row >}}
 {{< row >}}
-{{< thumbnail src="/mvb/Cornelia_Bauer.jpg" title="Cornelia Bauer" text="Vertretung der fördernden Mitglieder" >}}
+{{< thumbnail src="/mvb/Ralph_Guderlei.png" title="Dr.Ralph Guderlei" text="Vorstand Stadtkapelle" >}}
+{{< thumbnail src="/img/Portrait_Placeholder.png" title="Simon Föhr" text="musik. Leitung Stadtkapelle" >}}
+{{< thumbnail src="/mvb/Cornelia_Bauer.jpg" title="Cornelia Bauer" text="Vertretung fördernden Mitglieder" >}}
 {{< /row >}}
 {{< /grid >}}  
 
