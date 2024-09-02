@@ -27,7 +27,7 @@ Auch in den Biberacher Partnerstädten Schweidnitz (Polen), Valence (Frankreich)
 
 ### Ausschussmitglieder
 
-Kristina Kopp, Karin Guderlei, Petra Zimmermann
+Dr. Kristina Kopp, Karin Guderlei, Petra Zimmermann
 
 ### Notenwart
 

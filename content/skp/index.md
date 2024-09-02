@@ -33,7 +33,7 @@ Aktuelle Informationen finden Sie auch auf dem [Instagram](https://instagram.com
 ## Vorstand
 {{< grid >}}
 {{< row >}}
-{{< thumbnail src="ralph_guderlei.png" title="Dr.Ralph Guderlei" text="Vorstand" >}}
+{{< thumbnail src="ralph_guderlei.png" title="Dr. Ralph Guderlei" text="Vorstand" >}}
 {{< thumbnail src="christina_butz.jpg" title="Christina Butz" text="stellv. Vorstand" >}}
 {{< /row >}}
 {{< /grid >}}   

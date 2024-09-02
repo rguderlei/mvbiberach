@@ -25,7 +25,7 @@ Der Musikverein unterhält derzeit zwei Orchester:
 {{< thumbnail src="/mvb/Andreas_Winter.jpg" title="MD Andreas Winter" text="musik. Leitung Sinfonieorchester" >}}
 {{< /row >}}
 {{< row >}}
-{{< thumbnail src="/mvb/Ralph_Guderlei.png" title="Dr.Ralph Guderlei" text="Vorstand Stadtkapelle" >}}
+{{< thumbnail src="/mvb/Ralph_Guderlei.png" title="Dr. Ralph Guderlei" text="Vorstand Stadtkapelle" >}}
 {{< thumbnail src="/img/Portrait_Placeholder.png" title="Simon Föhr" text="musik. Leitung Stadtkapelle" >}}
 {{< thumbnail src="/mvb/Cornelia_Bauer.jpg" title="Cornelia Bauer" text="Vertretung fördernden Mitglieder" >}}
 {{< /row >}}
