@@ -5,8 +5,9 @@ end: 2024-11-17T19:00:02.811Z
 categories:
   - Stadtkapelle
 location: Gigelberghalle
+banner: Herbstkonzert-2024.jpg
 ---
-## P﻿rogramm
+## Programm
 
 AIDA - Gran Finale Secondo (Giuseppe Verdi)
 
@@ -22,7 +23,6 @@ His Honor - Konzertmarsch (Henry Fillmore)
 
 The Sunken Village (Philip Sparke)
 
-#### 
  ***Pause*** 
 
 Encanto (Robert W. Smith)

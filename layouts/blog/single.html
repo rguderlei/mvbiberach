@@ -27,7 +27,7 @@
 
                         <div id="post-content">
                           <p>
-                            <img src={{ .Params.banner }}>
+                            <img src={{ .Params.banner }} style="max-height: 400px;">
                           </p>
                           <p><strong>{{ .Params.begin | time.Format ":date_short" }} {{ .Params.begin | time.Format ":time_short" }}, {{  .Params.location }}</strong></p>  
                           
