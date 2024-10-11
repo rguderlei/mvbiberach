@@ -26,7 +26,7 @@ Aktuelle Informationen finden Sie auch auf dem [Instagram](https://instagram.com
 
 {{< grid >}}
 {{< row >}}
-{{< thumbnail src="/img/Portrait_Placeholder.png" title="Simon Föhr" text="" >}}
+{{< thumbnail src="/mvb/Simon_Foehr.jpg" title="Simon Föhr" text="" >}}
 {{< /row >}}
 {{< /grid >}}   
 
