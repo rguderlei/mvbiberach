@@ -1,6 +1,6 @@
 ---
 title: Serenade
-date: "2024-01-30T17:41Z"
+date: "2024-01-30"
 begin: 2024-06-28T20:00:00Z
 end: 2023-06-28T22:00:00Z
 categories: ["Stadtkapelle"]

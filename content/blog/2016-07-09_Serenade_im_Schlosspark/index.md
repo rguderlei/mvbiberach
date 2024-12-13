@@ -1,6 +1,6 @@
 ---
 title: Serenade im Schlosspark
-date: "2016-07-09T19:00Z"
+date: "2016-07-09"
 begin: 2016-07-09T19:00:00Z
 end: 2016-07-09T21:00:00Z
 categories: ["Sinfonieorchester"]

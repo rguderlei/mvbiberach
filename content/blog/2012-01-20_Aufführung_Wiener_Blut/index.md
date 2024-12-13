@@ -1,6 +1,6 @@
 ---
 title: Aufführung Wiener Blut
-date: "2012-01-20T19:30Z"
+date: "2012-01-20"
 begin: 2012-01-20T19:30:00Z
 end: 2012-01-20T22:30:00Z
 categories: ["Sinfonieorchester"]

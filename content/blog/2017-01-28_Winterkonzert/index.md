@@ -1,6 +1,6 @@
 ---
 title: Winterkonzert
-date: "2017-01-28T20:00Z"
+date: "2017-01-28"
 begin: 2017-01-28T20:00:00Z
 end: 2017-01-28T22:00:00Z
 categories: ["Sinfonieorchester"]

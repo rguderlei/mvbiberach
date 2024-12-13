@@ -1,6 +1,6 @@
 ---
 title: Spitalhofserenade
-date: "2013-07-07T19:00Z"
+date: "2013-07-07"
 begin: 2013-07-07T19:00:00Z
 end: 2013-07-07T21:00:00Z
 categories: ["Sinfonieorchester"]

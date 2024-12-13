@@ -1,6 +1,6 @@
 ---
 title: Klassik Open Air
-date: "2015-07-11T21:00Z"
+date: "2015-07-11"
 begin: 2015-07-11T21:00:00Z
 end: 2015-07-11T23:00:00Z
 categories: ["Sinfonieorchester"]

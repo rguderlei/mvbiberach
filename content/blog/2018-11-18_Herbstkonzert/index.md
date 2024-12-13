@@ -1,6 +1,6 @@
 ---
 title: Herbstkonzert
-date: "2018-11-18T14:28Z"
+date: "2018-11-18"
 begin: 2018-11-18T17:00:00Z
 end: 2018-11-18T19:00:00Z
 categories: ["Stadtkapelle"]

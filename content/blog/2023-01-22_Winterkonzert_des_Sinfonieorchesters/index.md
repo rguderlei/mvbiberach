@@ -1,6 +1,6 @@
 ---
 title: Winterkonzert des Sinfonieorchesters
-date: "2022-05-23T19:16Z"
+date: "2022-05-23"
 begin: 2023-01-22T17:00:00Z
 end: 2023-01-22T19:00:00Z
 categories: ["Sinfonieorchester"]

@@ -1,6 +1,6 @@
 ---
 title: Promenadenkonzert
-date: "2023-07-16T19:00Z"
+date: "2023-07-16"
 begin: 2023-07-16T19:00:17.201Z
 end: 2023-07-16T21:00:17.201Z
 categories: ["Stadtkapelle"]

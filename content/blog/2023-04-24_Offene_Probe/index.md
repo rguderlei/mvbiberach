@@ -1,6 +1,6 @@
 ---
 title: Offene Probe
-date: "2023-03-23T15:01Z"
+date: "2023-03-23"
 begin: 2023-04-24T20:00:00Z
 end: 2023-04-24T22:00:00Z
 categories: ["Stadtkapelle"]

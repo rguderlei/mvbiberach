@@ -1,6 +1,6 @@
 ---
 title: Neujahrskonzert
-date: "2016-01-23T20:00Z"
+date: "2016-01-23"
 begin: 2016-01-23T20:00:00Z
 end: 2016-01-23T22:00:00Z
 categories: ["Sinfonieorchester"]

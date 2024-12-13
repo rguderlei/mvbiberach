@@ -1,6 +1,6 @@
 ---
 title: Wielandpark-Serenade
-date: "2017-06-30T21:00Z"
+date: "2017-06-30"
 begin: 2017-06-30T21:00:00Z
 end: 2017-06-30T23:00:00Z
 categories: ["Stadtkapelle"]

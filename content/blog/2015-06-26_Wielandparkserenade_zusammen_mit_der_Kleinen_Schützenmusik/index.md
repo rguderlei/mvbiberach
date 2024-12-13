@@ -1,6 +1,6 @@
 ---
 title: Wielandparkserenade zusammen mit der Kleinen Schützenmusik
-date: "2015-06-26T21:00Z"
+date: "2015-06-26"
 begin: 2015-06-26T21:00:00Z
 end: 2015-06-26T23:00:00Z
 categories: ["Stadtkapelle"]

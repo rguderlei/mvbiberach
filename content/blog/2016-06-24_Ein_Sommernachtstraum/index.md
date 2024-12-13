@@ -1,6 +1,6 @@
 ---
 title: Ein Sommernachtstraum
-date: "2016-06-24T21:00Z"
+date: "2016-06-24"
 begin: 2016-06-24T21:00:00Z
 end: 2016-06-24T23:00:00Z
 categories: ["Stadtkapelle"]

@@ -1,6 +1,6 @@
 ---
 title: Klassik Open Air Filmmusik
-date: "2012-07-08T20:00Z"
+date: "2012-07-08"
 begin: 2012-07-08T20:00:00Z
 end: 2012-07-08T22:00:00Z
 categories: ["Sinfonieorchester"]

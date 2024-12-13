@@ -1,6 +1,6 @@
 ---
 title: Spitalhofserenade
-date: "2017-07-08T21:00Z"
+date: "2017-07-08"
 begin: 2017-07-08T21:00:00Z
 end: 2017-07-08T23:00:00Z
 categories: ["Sinfonieorchester"]

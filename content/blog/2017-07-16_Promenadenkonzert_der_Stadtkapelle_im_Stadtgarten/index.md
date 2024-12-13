@@ -1,6 +1,6 @@
 ---
 title: Promenadenkonzert der Stadtkapelle im Stadtgarten
-date: "2016-12-21T21:51Z"
+date: "2016-12-21"
 begin: 2017-07-16T09:30:00Z
 end: 2017-07-16T10:30:00Z
 categories: ["Stadtkapelle"]

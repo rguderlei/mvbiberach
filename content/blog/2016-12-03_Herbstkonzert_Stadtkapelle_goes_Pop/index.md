@@ -1,6 +1,6 @@
 ---
 title: Herbstkonzert Stadtkapelle goes Pop
-date: "2016-12-03T19:30Z"
+date: "2016-12-03"
 begin: 2016-12-03T19:30:00Z
 end: 2016-12-03T22:00:00Z
 categories: ["Stadtkapelle"]

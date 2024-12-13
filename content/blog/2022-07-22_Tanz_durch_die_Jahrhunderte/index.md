@@ -1,6 +1,6 @@
 ---
 title: Tanz durch die Jahrhunderte
-date: "2022-07-22T20:00Z"
+date: "2022-07-22"
 begin: 2022-07-22T20:00:00Z
 end: 2022-07-22T22:30:00Z
 categories: ["Sinfonieorchester"]

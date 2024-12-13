@@ -1,6 +1,6 @@
 ---
 title: SPARKASSENKONZERT - Spitalhofserenade
-date: "2021-01-19T22:49Z"
+date: "2021-01-19"
 begin: 2021-07-10T21:00:00Z
 end: 2021-07-10T22:00:00Z
 categories: ["Sinfonieorchester"]

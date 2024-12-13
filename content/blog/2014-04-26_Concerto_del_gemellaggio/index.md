@@ -1,6 +1,6 @@
 ---
 title: Concerto del gemellaggio
-date: "2014-04-26T21:00Z"
+date: "2014-04-26"
 begin: 2014-04-26T21:00:00Z
 end: 2014-04-26T23:00:00Z
 categories: ["Sinfonieorchester"]

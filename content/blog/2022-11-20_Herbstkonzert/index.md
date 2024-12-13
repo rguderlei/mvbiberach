@@ -1,6 +1,6 @@
 ---
 title: Herbstkonzert
-date: "2022-11-20T14:28Z"
+date: "2022-11-20"
 begin: 2022-11-20T17:00:00Z
 end: 2022-11-20T19:00:00Z
 categories: ["Stadtkapelle"]

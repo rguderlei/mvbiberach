@@ -1,6 +1,6 @@
 ---
 title: ökumenisches Kirchplatzfest
-date: "2023-01-30T13:55Z"
+date: "2023-01-30"
 begin: 2023-09-09T11:00:00Z
 end: 2023-09-09T12:00:00Z
 categories: ["Stadtkapelle"]

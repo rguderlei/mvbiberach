@@ -1,6 +1,6 @@
 ---
 title: Konzert mit Chören aus Valence und Asti
-date: "2013-11-02T20:00Z"
+date: "2013-11-02"
 begin: 2013-11-02T20:00:00Z
 end: 2013-11-02T22:00:00Z
 categories: ["Sinfonieorchester"]

@@ -1,6 +1,6 @@
 ---
 title: Sparkassenkonzert
-date: "2019-01-30T18:13Z"
+date: "2019-01-30"
 begin: 2019-07-06T21:00:00Z
 end: 2019-07-06T23:00:00Z
 categories: ["Sinfonieorchester"]

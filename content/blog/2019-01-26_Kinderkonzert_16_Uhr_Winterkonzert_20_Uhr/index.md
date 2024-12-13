@@ -1,6 +1,6 @@
 ---
 title: Kinderkonzert 16 Uhr Winterkonzert 20 Uhr
-date: "2018-09-10T22:18Z"
+date: "2018-09-10"
 begin: 2019-01-26T16:00:00Z
 end: 2019-01-26T17:00:00Z
 categories: ["Sinfonieorchester"]

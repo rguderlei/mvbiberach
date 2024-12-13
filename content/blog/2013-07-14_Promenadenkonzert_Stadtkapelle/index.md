@@ -1,6 +1,6 @@
 ---
 title: Promenadenkonzert Stadtkapelle
-date: "2013-07-14T09:30Z"
+date: "2013-07-14"
 begin: 2013-07-14T09:30:00Z
 end: 2013-07-14T10:30:00Z
 categories: ["Stadtkapelle"]

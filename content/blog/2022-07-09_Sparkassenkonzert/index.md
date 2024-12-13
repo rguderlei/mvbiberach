@@ -1,6 +1,6 @@
 ---
 title: Sparkassenkonzert - Klassik Open Air
-date: "2022-07-09T21:00Z"
+date: "2022-07-09"
 begin: 2022-07-09T21:00:00Z
 end: 2022-07-09T22:00:00Z
 categories: ["Sinfonieorchester"]

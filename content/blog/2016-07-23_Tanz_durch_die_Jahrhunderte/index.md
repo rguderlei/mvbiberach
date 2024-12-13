@@ -1,6 +1,6 @@
 ---
 title: Tanz durch die Jahrhunderte
-date: "2016-07-12T21:11Z"
+date: "2016-07-12"
 begin: 2016-07-23T20:30:00Z
 end: 2016-07-23T22:00:00Z
 categories: ["Sinfonieorchester"]

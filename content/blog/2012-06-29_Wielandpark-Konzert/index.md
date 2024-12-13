@@ -1,6 +1,6 @@
 ---
 title: Wielandpark-Konzert
-date: "2012-06-29T21:00Z"
+date: "2012-06-29"
 begin: 2012-06-29T21:00:00Z
 end: 2012-06-29T23:59:00Z
 categories: ["Stadtkapelle"]

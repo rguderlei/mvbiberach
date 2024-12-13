@@ -1,6 +1,6 @@
 ---
 title: Karl Jenkins -- Songs of Sanctuary
-date: "2015-04-24T19:00Z"
+date: "2015-04-24"
 begin: 2015-04-24T19:00:00Z
 end: 2015-04-24T20:30:00Z
 categories: ["Sinfonieorchester"]

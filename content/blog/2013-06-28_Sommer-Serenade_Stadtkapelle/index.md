@@ -1,6 +1,6 @@
 ---
 title: Sommer-Serenade Stadtkapelle
-date: "2013-06-28T21:00Z"
+date: "2013-06-28"
 begin: 2013-06-28T21:00:00Z
 end: 2013-06-28T23:00:00Z
 categories: ["Stadtkapelle"]

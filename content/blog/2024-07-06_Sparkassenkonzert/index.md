@@ -1,7 +1,7 @@
 ---
 begin: 2024-07-07T20:00:00.000Z
 banner: quintett.jpg
-date: 2024-07-07T20:00Z
+date: 2024-07-07
 title: Sparkassenkonzert - Serenade verlegt ins HHEF (Dollinger Realschule)
 location: Heinz-Engler-Forum, Wilhelm-Leger-Strasse 4
 type: blog

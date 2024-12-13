@@ -1,6 +1,6 @@
 ---
 title: Promenadenkonzert am Schützensonntag im Stadtgarten
-date: "2016-07-17T09:30Z"
+date: "2016-07-17"
 begin: 2016-07-17T09:30:00Z
 end: 2016-07-17T10:30:00Z
 categories: ["Stadtkapelle"]

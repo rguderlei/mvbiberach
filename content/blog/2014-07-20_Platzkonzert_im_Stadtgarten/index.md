@@ -1,6 +1,6 @@
 ---
 title: Platzkonzert im Stadtgarten
-date: "2014-07-20T09:30Z"
+date: "2014-07-20"
 begin: 2014-07-20T09:30:00Z
 end: 2014-07-20T10:30:00Z
 categories: ["Stadtkapelle"]

@@ -1,6 +1,6 @@
 ---
 title: Herbstkonzert
-date: "2015-11-14T20:00Z"
+date: "2015-11-14"
 begin: 2015-11-14T20:00:00Z
 end: 2015-11-14T22:00:00Z
 categories: ["Stadtkapelle"]

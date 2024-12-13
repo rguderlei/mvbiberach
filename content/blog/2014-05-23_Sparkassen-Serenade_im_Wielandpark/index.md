@@ -1,6 +1,6 @@
 ---
 title: Sparkassen-Serenade im Wielandpark
-date: "2014-05-23T21:00Z"
+date: "2014-05-23"
 begin: 2014-05-23T21:00:00Z
 end: 2014-05-23T23:00:00Z
 categories: ["Stadtkapelle","Sinfonieorchester"]

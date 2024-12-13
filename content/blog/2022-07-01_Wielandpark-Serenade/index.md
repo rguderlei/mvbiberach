@@ -1,6 +1,6 @@
 ---
 title: Wielandpark-Serenade
-date: "2022-07-01T21:00Z"
+date: "2022-07-01"
 begin: 2022-07-01T21:00:00Z
 end: 2022-07-01T23:00:00Z
 categories: ["Stadtkapelle"]

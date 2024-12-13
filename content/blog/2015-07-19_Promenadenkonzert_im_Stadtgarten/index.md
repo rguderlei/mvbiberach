@@ -1,6 +1,6 @@
 ---
 title: Promenadenkonzert im Stadtgarten
-date: "2015-07-19T09:30Z"
+date: "2015-07-19"
 begin: 2015-07-19T09:30:00Z
 end: 2015-07-19T10:30:00Z
 categories: ["Stadtkapelle"]

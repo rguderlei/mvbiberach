@@ -1,6 +1,6 @@
 ---
 title: Sparkassenkonzert Fuchswinkelhof
-date: "2023-07-08T21:00Z"
+date: "2023-07-08"
 begin: 2023-07-08T21:00:17.201Z
 end: 2023-07-08T23:00:17.201Z
 categories: ["Sinfonieorchester"]

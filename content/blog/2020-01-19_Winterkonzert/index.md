@@ -1,6 +1,6 @@
 ---
 title: Winterkonzert des Sinfonieorchesters
-date: "2020-01-19T17:16Z"
+date: "2020-01-19"
 begin: 2020-01-19T17:00:00Z
 end: 2020-01-19T19:00:00Z
 categories: ["Sinfonieorchester"]

@@ -1,6 +1,6 @@
 ---
 title: Wielandpark-Serenade
-date: "2019-06-28T21:00Z"
+date: "2019-06-28"
 begin: 2019-06-28T21:00:00Z
 end: 2019-06-28T23:00:00Z
 categories: ["Stadtkapelle"]

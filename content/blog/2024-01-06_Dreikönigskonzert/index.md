@@ -1,6 +1,6 @@
 ---
 title: Dreikönigskonzert in der St. Martins-Kirche
-date: "2023-12-10T21:56Z"
+date: "2023-12-10"
 begin: 2024-01-06T17:00:00Z
 end: 2024-01-06T18:00:00Z
 categories: ["Stadtkapelle"]

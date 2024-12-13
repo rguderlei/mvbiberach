@@ -1,6 +1,6 @@
 ---
 title: Dreikönigskonzert
-date: "2016-01-06T17:00Z"
+date: "2016-01-06"
 begin: 2016-01-06T17:00:00Z
 end: 2016-01-06T18:00:00Z
 categories: ["Stadtkapelle"]

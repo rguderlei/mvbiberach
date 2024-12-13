@@ -1,6 +1,6 @@
 ---
 title: Frühjahrskonzert als Benefizkonzert für die Ukraine
-date: "2022-04-10T17:00Z"
+date: "2022-04-10"
 begin: 2022-04-10T17:00:00Z
 end: 2022-04-10T19:00:00Z
 categories: ["Stadtkapelle"]
