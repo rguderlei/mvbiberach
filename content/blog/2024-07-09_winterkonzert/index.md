@@ -5,7 +5,7 @@ end: 2025-01-26T19:00:07.093Z
 categories:
   - Sinfonieorchester
 location: Stadthalle Biberach
-banner: mit-blumenschmuck-stehend.jpg
+banner: solistin-chiara-tauber.jpg
 ---
 Das Winterkonzert am Sonntag, 26. Januar 2025 um 17 Uhr in der Stadthalle, entführt das Publikum in die faszinierende Welt französischer Klangkunst. Unter der Leitung von Musikdirektor Andreas Winter präsentiert das Sinfonieorchester des Musikvereins ein facettenreiches Programm, das mit seiner Leichtigkeit, seinem Esprit und seiner Virtuosität begeistert.
 
