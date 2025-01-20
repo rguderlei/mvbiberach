@@ -1,7 +1,7 @@
 ---
 title: SPARKASSENKONZERT Klassik Open Air
-begin: 2025-07-12T19:00:29.620Z
-end: 2025-07-12T20:45:29.631Z
+begin: 2025-07-12T21:00:29.620Z
+end: 2025-07-12T10:45:00.000Z
 categories:
   - Sinfonieorchester
 location: Marktplatz Biberach
