@@ -9,8 +9,8 @@ hardWraps = true
 unsafe = true
 
 [outputs]
-    section = ["HTML", "RSS", "Calendar"]
-    categories = ["HTML", "RSS", "Calendar"]
+    section = ["HTML", "RSS"]
+#    categories = ["HTML", "RSS"]
 
 [privacy]
   [privacy.disqus]
