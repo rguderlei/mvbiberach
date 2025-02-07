@@ -9,7 +9,7 @@ Das Sinfonieorchester des Musikvereins Biberach, dessen Wurzeln bis ins Jahr 176
 Die engagierten Laien, unterstützt durch einige Musikschullehrer, widmen sich im Winterkonzert der Musik von Beethoven bis Tschaikowsky, von Lutoslavski bis Gershwin. Die Sparkassenkonzerte, als Klassik-Open Air auf dem Biberacher Marktplatz (z.B. Carmina Burana) oder im Museumshof, das Brahms-Requiem und die „Songs of Sanctuary“ von Karl Jenkins in der Stadtpfarrkirche St. Martin und seit 40 Jahren die Mitwirkung beim „Tanz durch die Jahrhunderte“ anlässlich des Biberacher Schützenfestes - all das zeigt die Vielfältigkeit und Leistungsfähigkeit des Orchesters. Bühnenwerke wie "Der Wildschütz" von Albert Lortzing oder "Wiener Blut" von Johann Strauß gehören ebenso zum breiten Spektrum des Repertoires.
 Auch in den Biberacher Partnerstädten Schweidnitz (Polen), Valence (Frankreich), Asti (Italien) und zuletzt auf der Kanalinsel Guernsey trat das Ensemble mit großem Erfolg auf.
 
-## Dirigent 
+## Dirigent
 
 {{< grid >}}
 {{< row >}}
@@ -18,6 +18,7 @@ Auch in den Biberacher Partnerstädten Schweidnitz (Polen), Valence (Frankreich)
 {{< /grid >}}   
 
 ## Vorstand
+
 {{< grid >}}
 {{< row >}}
 {{< thumbnail src="Klaus_Pfalzer.jpg" title="Klaus Pfalzer" text="Vorstand" >}}
@@ -33,6 +34,10 @@ Dr. Kristina Kopp, Karin Guderlei, Petra Zimmermann
 
 Petra Zimmermann
 
-### Stellvertretender Dirigent und Konzertmeister
+### Stellvertretende Dirigentin
 
-Günther Luderer
+Chiara Tauber
+
+### Konzertmeister
+
+Chiara Tauber und Günther Luderer
