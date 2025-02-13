@@ -9,13 +9,9 @@ banner: sinfonieorchester-januar-2024-klein.jpg
 ---
 Programm SPARKASSENKONZERT Klassik Open Air Klassik goes Rock/Pop
 
-Samstag, 12. Juli 2025 Marktplatz Biberach 21 Uhr
-
 Sinfonieorchester des Musikvereins Biberach\
 Leitung: Chiara Tauber und Musikdirektor Andreas Winter\
 Solist: Christoph Schweizer, Bariton
-
- 
 
 George Bizet: Carmen-Ouvertüre und Toreador-Arie     
 
