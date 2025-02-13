@@ -1,6 +1,6 @@
 ---
 title: SPARKASSENKONZERT
-begin: 2025-07-12T20:00:21.575Z
+begin: 2025-07-12T21:00:00.000Z
 end: 2025-07-12T21:45:21.621Z
 categories:
   - Sinfonieorchester
