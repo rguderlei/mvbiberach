@@ -10,18 +10,19 @@ banner: sinfonieorchester-januar-2024-klein.jpg
 Programm SPARKASSENKONZERT Klassik Open Air Klassik goes Rock/Pop
 
 Sinfonieorchester des Musikvereins Biberach\
+Mitglieder des Jugendsinfonieorchesters\
 Leitung: Chiara Tauber und Musikdirektor Andreas Winter\
 Solist: Christoph Schweizer, Bariton
 
-George Bizet: Carmen-Ouvertüre und Toreador-Arie     
+George Bizet: Ouvertüre und Arie des Toreador „Votre toast, je peux vous le rendre“ aus "Carmen"     
 
-Wolfgang Amadeus Mozart: Figaro-Marsch und Madamina-Arie des Leporello aus „Don Giovanni“
+Wolfgang Amadeus Mozart: Marsch aus "Le Nozze di Figaro" und Arie des Leporello "Madamina, il catalogo è questo" aus „Don Giovanni“
 
 Jaromir Weinberger: Polka aus „Schwanda, der Dudelsackpfeiffer“
 
-Jean Sibelius: Finlandia
+Jean Sibelius: Finlandia op. 26
 
-Modest Mussorgski: Das große Tor von Kiew aus „Bilder einer Ausstellung“
+Modest Mussorgski: "Das große Tor von Kiew" aus „Bilder einer Ausstellung“
 
 Eric Coates: Dambuster March
 
