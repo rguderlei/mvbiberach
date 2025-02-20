@@ -24,7 +24,7 @@ Jean Sibelius: Finlandia op. 26
 
 Modest Mussorgski: "Das große Tor von Kiew" aus „Bilder einer Ausstellung“
 
-Eric Coates: Dambuster March
+Eric Coates: Dambusters March
 
 *Pause (Getränkeverkauf durch den Musikverein Biberach)*
 
