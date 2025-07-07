@@ -5,7 +5,7 @@ end: 2025-07-12T21:45:21.621Z
 categories:
   - Sinfonieorchester
 location: Marktplatz Biberach
-banner: sinfonieorchester-januar-2024-klein.jpg
+banner: sinfonieorchester-2025-foto-herbert-köppen-.jpg
 ---
 Am **Samstag, dem 12.Juli, um 21 Uhr** findet auf dem Marktplatz Biberach das traditionelle **Sparkassenkonzert**, dieses Jahr wieder als großes Klassik Open Air, statt. Unter dem Motto „Klassik goes Rock/Pop“ musiziert das Sinfonieorchester des Musikvereins Biberach, unterstützt von den talentierten Mitgliedern des Jugendsinfonieorchesters der Bruno-Frey-Musikschule, unter der Leitung von Chiara Tauber und Musikdirektor Andreas Winter. Solist ist der durch seine Mitwirkung in der Bürgeroper, bei Beethovens 9. Symphonie und in einem Winterkonzert des Orchesters in Biberach bereits bestens bekannte Bass-Bariton Christoph Schweizer. Elena Oehlcke, die erst 15 Jahre alte Sängerin der Musikschul-Band „29 letters“, wird mit „Music“ zu hören sein.
 
