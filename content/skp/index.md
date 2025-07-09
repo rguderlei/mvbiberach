@@ -1,5 +1,6 @@
 ---
 title: Stadtkapelle
+type: page
 ---
 {{< figure src="promenadenkonzert_2023.jpg" caption="Stadtkapelle beim Promenadenkonzert 2023" >}}
 
@@ -15,12 +16,18 @@ Die Stadtkapelle Biberach wird durch Simon Föhr dirigiert.
 
 Wer Freude am gemeinsamen Musizieren hat und sich gerne zusammen mit Gleichgesinnten im Bereich der sinfonischen Blasmusik treffen möchte, ist  jederzeit in die wöchentlichen Proben willkommen. Wir proben außerhalb der Schulferien immer montags von 19:30-21:30 Uhr im Bruno-Frey-Saal der Musikschule Biberach. Bitte einfach Kontakt mit uns aufnehmen unter **stadtkapelle@mvbiberach.de**.
 
-Aktuell proben wir unter anderem
-
- - [The Sunken Village](https://youtu.be/y1BDenIRl6U?si=rf2bozzZbFOQc8HP) (Philip Sparke, arr. Judith van Boven)
- - [Sea of Wisdom](https://youtu.be/3oBL07ueVeo?si=zaysLbR8jf2XBLYT) (Daisuke Shimizu)
-
 Aktuelle Informationen finden Sie auch auf dem [Instagram](https://instagram.com/stadtkapelle_biberach?igshid=YmMyMTA2M2Y=)-Account der Stadtkapelle Biberach.
+
+## Termine
+| | |
+| ------ | ------ |
+| 18. - 27.07.2025 | &nbsp;&nbsp;Schützenfest|
+| 20.09.2025 11:00 Uhr | &nbsp;&nbsp;ökumenisches Kirchplatzfest St. Martin Biberach |
+| 18./19.10.2025| &nbsp;&nbsp;Probenwochenende|
+| 16.11.2025 17:00 Uhr | &nbsp;&nbsp;Herbstkonzert in der Gigelberghalle |
+| 06.01.2026 | &nbsp;&nbsp;Dreikönigskonzert St. Martin |
+
+
 
 ## Dirigent 
 

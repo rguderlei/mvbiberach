@@ -1,5 +1,6 @@
 +++
 title = "Unterstützung"
+type: page
 +++
 
 ## Mitglied werden

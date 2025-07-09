@@ -1,5 +1,6 @@
 +++
 title = "Musikverein Biberach"
+type = "page"
 +++
 
 Der Musikverein Biberach an der Riß e.V. hat seinen Sitz in Biberach an der Riß.

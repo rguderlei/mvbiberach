@@ -1,5 +1,6 @@
 +++
 title = "Geschichte"
+type = "page"
 +++
 
 1768 Erste Aufzeichnung des Johann Maximilian Kick (Quelle: August Bopp 1930) über eine Zusammenkunft von Musikern beim Zinkenisten Wittich, es trafen sich von Klock (Bürgermeister), Fischer, Maximilian Kick, Kraiß, Konrektor und gewesener Kantor sowie etliche Schüler und andere Liebhaber der Musik

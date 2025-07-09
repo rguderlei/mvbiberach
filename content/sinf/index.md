@@ -1,5 +1,6 @@
 ---
 title: Sinfonieorchester
+type: page
 ---
 {{< figure src="sinfonieorchester_2024.jpg" caption="" width="100%" >}}
 
