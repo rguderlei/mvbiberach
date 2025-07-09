@@ -1,6 +1,6 @@
 +++
 title = "Unterstützung"
-type: page
+type = "page"
 +++
 
 ## Mitglied werden

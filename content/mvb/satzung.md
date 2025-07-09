@@ -1,6 +1,6 @@
 +++
 title = "Satzung"
-type: page
+type = "page"
 +++
 
 Die Satzung wurde in der nachstehenden Fassung von der Mitgliederversammlung am 17. April 2024 beschlossen. Nach Ermächtigung durch die Mitgliederversammlung sind nachträgliche Änderungen, soweit vom Registergericht oder Finanzamt angefordert, sowie redaktionelle Detailänderungen eingefügt. 
