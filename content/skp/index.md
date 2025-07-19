@@ -2,7 +2,7 @@
 title: Stadtkapelle
 type: page
 ---
-{{< figure src="skp_promenadenkonzert_2024.jpg" caption="Stadtkapelle beim Promenadenkonzert 2024" >}}
+{{< figure src="skp_promenadenkonzert_2024.jpg" caption="Stadtkapelle beim Promenadenkonzert 2024" width="100%" >}}
 
 <br />
 
@@ -22,7 +22,6 @@ Aktuelle Informationen finden Sie auch auf dem [Instagram](https://instagram.com
 | | |
 | ------ | ------ |
 | 18. - 27.07.2025 | &nbsp;&nbsp;Schützenfest|
-| 20.09.2025 11:00 Uhr | &nbsp;&nbsp;ökumenisches Kirchplatzfest St. Martin Biberach |
 | 18./19.10.2025| &nbsp;&nbsp;Probenwochenende|
 | 16.11.2025 17:00 Uhr | &nbsp;&nbsp;Herbstkonzert in der Gigelberghalle |
 | 06.01.2026 | &nbsp;&nbsp;Dreikönigskonzert St. Martin |
