@@ -2,7 +2,7 @@
 title: Stadtkapelle
 type: page
 ---
-{{< figure src="promenadenkonzert_2023.jpg" caption="Stadtkapelle beim Promenadenkonzert 2023" >}}
+{{< figure src="skp_promenadenkonzert_2024.jpg" caption="Stadtkapelle beim Promenadenkonzert 2024" >}}
 
 <br />
 
