@@ -1,0 +1,15 @@
+---
+title: Winterkonzert
+begin: 2026-01-25T03:00:02.140Z
+end: 2025-09-17T07:46:02.149Z
+categories:
+  - Sinfonieorchester
+location: Stadthalle Biberach
+---
+Programm
+
+Antonín Dvořák: Symphonische Ouvertüre "In der Natur" op.91
+
+Reinhold Glière: Konzert für Horn und Orchester B-Dur op. 91 (Solist: Johannes Schlecker)
+
+Anton Bruckner: Symphonie d-moll "Nullte"
