@@ -1,7 +1,7 @@
 ---
 title: Winterkonzert
-begin: 2026-01-25T03:00:02.140Z
-end: 2025-09-17T07:46:02.149Z
+begin: 2026-01-25T17:00:02.140Z
+end: 2026-01-25T19:00:02.149Z
 categories:
   - Sinfonieorchester
 location: Stadthalle Biberach
