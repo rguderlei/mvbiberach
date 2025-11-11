@@ -39,6 +39,6 @@ Petra Zimmermann
 
 Chiara Tauber
 
-### Konzertmeister
+### Konzertmeisterin
 
-Chiara Tauber und Günther Luderer
+Chiara Tauber
