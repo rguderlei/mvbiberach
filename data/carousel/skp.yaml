@@ -1,9 +1,12 @@
 weight: 3
-title: "Herbstkonzert"
+title: "Dreikönigskonzert"
 description: >
   <ul class="list-style-none">
-    <li>So, 16.11.2025, 17:00 Uhr</li>
-    <li>Gigelberghalle</li>
+    <li>Di, 06.01.2026, <br> 
+    15:00 Uhr (Einlass 14:30 Uhr) und <br>
+    17:00 Uhr (Einlass 16:30 Uhr)
+    </li>
+    <li>St. Martin</li>
   </ul>  
-image: "/blog/2025-11-16_herbstkonzert/herbstkonzert_2023.jpg"
-href: "/blog/2025-11-16_herbstkonzert/"
+image: "/blog/2026-01-06_dreikönigskonzert/Dreikönig_2024.jpg"
+href:  "/blog/2026-01-06_dreikönigskonzert/"

@@ -2,7 +2,7 @@
 title: Sinfonieorchester
 type: page
 ---
-{{< figure src="sinfonieorchester_2024.jpg" caption="" width="100%" >}}
+{{< figure src="Sinfonieorchester_2025.jpg" caption="" width="100%" >}}
 
 <br />
 Das Sinfonieorchester des Musikvereins Biberach, dessen Wurzeln bis ins Jahr 1768 zurückreichen, ist mit über 60   Musikerinnen und Musikern im Alter von 16 bis 85 Jahren groß besetzt. Das Sinfonieorchester wird seit 2002 vom städtischen Musikdirektor Andreas Winter geleitet.
