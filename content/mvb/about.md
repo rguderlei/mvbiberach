@@ -33,4 +33,4 @@ Der Musikverein unterhält derzeit zwei Orchester:
 
 ## JOI
 
-2007 wurde die Jugendorchesterinitiative Biberach e.V. gegründet, in der sich Schützendirektion, Bruno-Frey-Musikschule und Musikverein Biberach zusammenschließen. Zweck der joi ist die finanzielle und ideelle Unterstützung der Jugendorchester sowie die Vernetzung untereinander sowie mit den Orchestern des Musikvereins. Der Verein hat ca. 40 Mitglieder. Nähere Auskünfte bei Klaus Pfalzer, der den Musikverein bei joi vertritt.
+2007 wurde der Förderverein Biberacher Jugendorchesterinitiative e.V. gegründet, in dem sich Schützendirektion, Bruno-Frey-Musikschule und Musikverein Biberach zusammenschließen. Zweck der joi ist die finanzielle und ideelle Unterstützung der Jugendorchester sowie die Vernetzung untereinander sowie mit den Orchestern des Musikvereins. Der Verein hat über 50 Mitglieder. Nähere Auskünfte bei Klaus Pfalzer, der den Musikverein bei joi vertritt.
