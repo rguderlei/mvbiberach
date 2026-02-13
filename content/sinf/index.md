@@ -30,7 +30,7 @@ Die wöchentlichen Proben finden Donnerstags um 20 Uhr im Bruno-Frey-Saal der Mu
 
 ### Ausschussmitglieder
 
-Dr. Kristina Kopp, Karin Guderlei, Petra Zimmermann
+Dominike Bühler, Karin Guderlei, Petra Zimmermann
 
 ### Notenwart
 
