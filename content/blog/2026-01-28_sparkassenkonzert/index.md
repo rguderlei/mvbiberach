@@ -13,4 +13,4 @@ Das Programm wurde inspiriert vom Buch „Der Klang der Monarchie – Eine musik
 
 Mozarts Ouvertüre zur Oper „Titus“ eröffnet den Abend, es folgt Haydns Sinfonie Nr. 53 „Imperiale“. Nach der Pause erklingen zwei Slawische Tänze von Dvorak, der „Kaiserwalzer“, der „Radetzky-Marsch“ und von Mahler „Wo die schönen Trompeten blasen“ (gesungen von Melanie Mayer). Die Serenade endet mit Beethovens Ouvertüre zu „Egmont“.
 
-<!--EndFragment-->
+Der Eintritt ist frei.
