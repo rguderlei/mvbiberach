@@ -48,10 +48,17 @@ unsafe = true
     parent = "menu.aboutus"
 
 [[menu.main]]
+    name       = "Vereinsordnung"
+    identifier = "menu.ordnung"
+    url        = "/mvb/ordnung"
+    weight     = 3
+    parent = "menu.aboutus"    
+
+[[menu.main]]
     name       = "Geschichte"
     identifier = "menu.geschichte"
     url        = "/mvb/geschichte"
-    weight     = 3
+    weight     = 4
     parent = "menu.aboutus"
 
 [[menu.main]]
