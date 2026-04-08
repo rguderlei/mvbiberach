@@ -27,7 +27,7 @@ Der Musikverein unterhält derzeit zwei Orchester:
 {{< row >}}
 {{< thumbnail src="/mvb/Ralph_Guderlei.png" title="Dr. Ralph Guderlei" text="Vorstand Stadtkapelle" >}}
 {{< thumbnail src="/mvb/Simon_Foehr.jpg" title="Simon Föhr" text="musik. Leitung Stadtkapelle" >}}
-{{< thumbnail src="/mvb/" title="NN" text="Vertretung der fördernden Mitglieder" >}}
+{{< thumbnail src="/mvb/Herbert_Köppen.jpg" title="Dr. Herbert Köppen text="Vertretung der fördernden Mitglieder" >}}
 {{< /row >}}
 {{< /grid >}}  
 
