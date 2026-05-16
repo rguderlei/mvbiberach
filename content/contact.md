@@ -1,6 +1,7 @@
 ---
 title: Kontakt
 id: contact
+type: page
 ---
 Musikverein Biberach an der Riss e.V.
 Geschäftsführer Josia Assmies

@@ -19,7 +19,7 @@ unsafe = true
     disable = true
   [privacy.instagram]
     disable = true
-  [privacy.twitter]
+  [privacy.x]
     disable = true
   [privacy.vimeo]
     disable = true
@@ -39,26 +39,32 @@ unsafe = true
     weight     = 1
     parent = "menu.aboutus"
 
+[[menu.main]]
+    name       = "Mitglied werden"
+    identifier = "menu.support"
+    url        = "/mvb/support"
+    weight     = 2
+    parent = "menu.aboutus"
 
 [[menu.main]]
     name       = "Satzung"
     identifier = "menu.satzung"
     url        = "/mvb/satzung"
-    weight     = 2
+    weight     = 3
     parent = "menu.aboutus"
 
 [[menu.main]]
     name       = "Vereinsordnung"
     identifier = "menu.ordnung"
     url        = "/mvb/ordnung"
-    weight     = 3
+    weight     = 4
     parent = "menu.aboutus"    
 
 [[menu.main]]
     name       = "Geschichte"
     identifier = "menu.geschichte"
     url        = "/mvb/geschichte"
-    weight     = 4
+    weight     = 5
     parent = "menu.aboutus"
 
 [[menu.main]]
@@ -109,4 +115,4 @@ unsafe = true
 [params.clients]
     enable = true
     title = "Wir danken unseren Sponsoren"
-   # subtitle = "Wir würden uns auch über über Ihre <a href='/mvb/support'>Unterstützung</a> freuen"
+    subtitle = "Wir würden uns auch über über Ihre <a href='/mvb/support'>Unterstützung</a> freuen"
