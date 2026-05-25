@@ -40,13 +40,6 @@ unsafe = true
     parent = "menu.aboutus"
 
 [[menu.main]]
-    name       = "Mitglied werden"
-    identifier = "menu.support"
-    url        = "/mvb/support"
-    weight     = 2
-    parent = "menu.aboutus"
-
-[[menu.main]]
     name       = "Satzung"
     identifier = "menu.satzung"
     url        = "/mvb/satzung"
@@ -66,6 +59,27 @@ unsafe = true
     url        = "/mvb/geschichte"
     weight     = 5
     parent = "menu.aboutus"
+
+[[menu.main]]
+    name       = "Unterstützung"
+    identifier = "menu.support"
+    url        = ""
+    weight     = 2
+
+[[menu.main]]
+    name       = "Spenden"
+    identifier = "menu.donate"
+    url        = "/mvb/support#spende"
+    weight     = 1
+    parent = "menu.support"
+
+
+[[menu.main]]
+    name       = "Mitglied werden"
+    identifier = "menu.join"
+    url        = "/mvb/support#mitglied"
+    weight     = 1
+    parent = "menu.support"
 
 [[menu.main]]
     name = "Konzerte"
