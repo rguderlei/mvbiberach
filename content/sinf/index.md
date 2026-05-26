@@ -9,7 +9,7 @@ Das Sinfonieorchester des Musikvereins Biberach, dessen Wurzeln bis ins Jahr 176
 
 Die engagierten Laien, unterstützt durch einige Musikschullehrer, widmen sich im Winterkonzert, das im Januar stattfindet, der Musik von Beethoven bis Tschaikowsky, von Lutoslavski bis Gershwin. Die Sparkassenkonzerte im Juli, als Klassik-Open Air auf dem Biberacher Marktplatz oder im Spitalhof, sind der andere Pfeiler im Jahr. Seit über 40 Jahren wirkt das Orchester bei den drei Aufführungen des „Tanz durch die Jahrhunderte“ anlässlich des Biberacher Schützenfestes mit Musik zum "Bürgerball zu Bismarcks Zeit" und dem Schlussbild mit. Auch Bühnenwerke wie "Der Wildschütz" von Albert Lortzing oder "Wiener Blut" von Johann Strauß  gehören zum breiten Spektrum des Repertoires.
 In den Biberacher Partnerstädten Schweidnitz (Polen), Valence (Frankreich), Asti (Italien) und zuletzt auf der Kanalinsel Guernsey trat das Ensemble mit großem Erfolg auf.
-Die wöchentlichen Proben finden Donnerstags um 20 Uhr im Bruno-Frey-Saal der Musikschule Biberach statt. Wenn Sie Lust haben, mitzuspielen, melden Sie sich bitte bei uns. sinfonieorchester@mvbiberach.de
+Die wöchentlichen Proben finden Donnerstags um 20 Uhr im Bruno-Frey-Saal der Musikschule Biberach statt. Wenn Sie Lust haben, mitzuspielen, melden Sie sich bitte bei uns. Schreiben Sie eine Mail an sinfonieorchester@mvbiberach.de
 
 ## Dirigent
 
