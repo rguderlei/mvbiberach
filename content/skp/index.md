@@ -22,9 +22,9 @@ Aktuelle Informationen finden Sie auch auf dem [Instagram](https://instagram.com
 | | |
 | ------ | ------ |
 | 26.06.2026 | &nbsp;&nbsp;Serenade im Spitalhof |
-| 17. - 26.07.2025 | &nbsp;&nbsp;Schützenfest|
-| 17./18.10.2025| &nbsp;&nbsp;Probenwochenende|
-| 15.11.2025 17:00 Uhr | &nbsp;&nbsp;Herbstkonzert in der Gigelberghalle |
+| 17. - 26.07.2026 | &nbsp;&nbsp;Schützenfest|
+| 17./18.10.2026| &nbsp;&nbsp;Probenwochenende|
+| 15.11.2026 | &nbsp;&nbsp;Herbstkonzert in der Gigelberghalle |
 | 06.01.2026 | &nbsp;&nbsp;Dreikönigskonzert St. Martin |
 
 
