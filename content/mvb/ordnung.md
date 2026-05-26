@@ -47,8 +47,6 @@ Aktive Vereinsmitglieder sind beitragsfrei.
 Ehrenmitglieder sind beitragsfrei. 
 
 
-vereinsordnung-mvb-2020-07-30-stand-20260311-sauber.docx   
-Seite 2  
 **3 Eintrittspreisregelung** 
 
 Beschlussfassendes Organ: Vorstand 
@@ -94,9 +92,6 @@ Langjährige aktive Mitglieder erhalten vom Verein folgende Ehrungen:
 **25 Jahre** ja 
 
 
-vereinsordnung-mvb-2020-07-30-stand-20260311-sauber.docx   
-Seite 3
-
 | Gold  |
 | :---- |
 | **Gold mit Jahreszahl und Kranz**  |
@@ -136,8 +131,6 @@ Beschlussfassendes Organ: Vorstand
 Der Musikverein unterhält eine Reihe von vereinseigenen Musikinstrumenten *(Vereinsinstrumente)* und Musikinstrumenten-Zubehör.  
 
 
-vereinsordnung-mvb-2020-07-30-stand-20260311-sauber.docx   
-Seite 4  
 **8.2 Anschaffung von Musikinstrumenten** 
 
 Über die Anschaffung von Musikinstrumenten entscheidet der Vorstand auf Vorschlag des musikalischen Leiters. 
@@ -170,9 +163,7 @@ Der Musikverein beteiligt sich nicht an den laufenden Kosten und den Kosten für
 
 Eine Ausnahme hiervon bilden die nicht dauerhaft verliehenen Instrumente (siehe 8.2.1 und 8.2.2). Hier veranlasst der Instrumentenwart notwendige Reparaturen auf Rechnung des Musikvereins. 
 
-
-vereinsordnung-mvb-2020-07-30-stand-20260311-sauber.docx   
-Seite 5  
+ 
 Härtefälle werden durch den Vorstand geregelt. 
 
 **8.5 Verleihung von Musikinstrumenten** 
@@ -204,10 +195,7 @@ Für alle vereinseigenen Instrumente, deren Wiederbeschaffungswert über 750€ 
 **9 Entschädigung für den musikalischen Leiter** 
 
 Beschlussfassendes Organ: Vorstand 
-
-
-vereinsordnung-mvb-2020-07-30-stand-20260311-sauber.docx   
-Seite 6  
+ 
 Bei musikalischen Aktivitäten außerhalb von Biberach ist der musikalische Leiter Gast des  Musikvereins. Bei Reisen in die Partnerstädte werden laut Schreiben von Kulturdezernent  Dr. Biege vom 19.2.2008 die Reisespesen von der Stadt übernommen 
 
 Das Gleiche gilt für die Vizedirigenten, wenn sie bei diesen Gelegenheiten dirigieren. 
@@ -251,12 +239,8 @@ Mitgliedermeldung BVBW
 Unterschriftenregelung: zwei Unterschriften (Vorsitzender und Geschäftsführer) bei • Einladungen zu Sitzungen der Mitgliederversammlung 
 
 • Einladungen zu Konzerten 
-
 • Mitgliederrundbriefen 
 
-
-vereinsordnung-mvb-2020-07-30-stand-20260311-sauber.docx   
-Seite 7  
 **10.4 Musikalischer Leiter** 
 
 ernennt Vizedirigenten   
@@ -306,10 +290,6 @@ Mitgliederpflege
 \- Zu- und Abgänge von Orchestermitgliedern an Vorstand berichten   
 Mitgliederführung   
 \- motivieren Mitglieder 
-
-
-vereinsordnung-mvb-2020-07-30-stand-20260311-sauber.docx   
-Seite 8  
 \- delegieren Aufgaben   
 \- leiten Helfereinsätze   
 Konzertorganisation 
@@ -355,10 +335,7 @@ Uniformenlager verwalten
 \- regelmäßige Inventur   
 Uniformen nach Rücksprache mit Vorstand nachbestellen    
 Kautionssparbuch für Uniformen führen 
-
-
-vereinsordnung-mvb-2020-07-30-stand-20260311-sauber.docx   
-Seite 9  
+ 
 **10.12 Instrumentenwart** 
 
 wird vom Vorstand ernannt   
@@ -401,6 +378,3 @@ MVB-Mitteilungen an die Öffentlichkeit werden vor Versand im Vorstand verteilt 
 
 Jugendorchesterinitiative \[entfernt\] 
 
-
-vereinsordnung-mvb-2020-07-30-stand-20260311-sauber.docx   
-Seite 10  
