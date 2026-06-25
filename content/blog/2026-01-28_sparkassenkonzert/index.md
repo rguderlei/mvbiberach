@@ -12,3 +12,39 @@ Das Programm wurde inspiriert vom Buch „Der Klang der Monarchie – Eine musik
 Wolfgang Amadeus Mozarts Ouvertüre zur Oper „Titus“ eröffnet den Abend, es folgt Joseph Haydns viersätzige Sinfonie Nr. 53 „Imperiale“, und der Kaiserwalzer von Johann Strauß. Nach der Pause erklingt der „Radetzky-Marsch“, gefolgt von zwei Slawischen Tänzen von Antonin Dvorak. Melanie Mayer, die Solistin des Abends, singt von Gustav Mahler „Wo die schönen Trompeten blasen“. Dazwischen steht ein klein besetztes „Intermezzo“ von Erich Wolfgang Korngold aus seiner Schauspielmusik zu „Viel Lärm um nichts“. Die Serenade endet mit Ludwig van Beethovens Ouvertüre zu „Egmont“.\
 **Melanie Mayer** begann mit 13 Jahren ihre Gesangsausbildung bei Oliver Haux. Ab 2015 studierte sie klassischen Gesang an der Hochschule für Musik und Darstellende Kunst Stuttgart bei Carmen Mammoser fort. Außerdem bekam sie während des Studiums neue Impulse bei mehreren Meisterkursen. Nach dem Studium sammelte sie Bühnenerfahrung bei Messen, Gesangsabenden, Operetten- und anderen Projekten und erweiterte so ihr Repertoire, das sowohl geistliche Musik, das Konzert- und Opernfach als auch Kunstlieder beinhaltet. Neben ihrer eigenen künstlerischen Tätigkeit unterrichtet sie in den Fächern Stimmbildung und Gesang, auch an der Bruno-Frey-Musikschule,  und leitet mehrere Chöre.\
 Der Eintritt ist frei.
+
+Wo die schönen Trompeten blasen\
+(aus "Des Knaben Wunderhorn")
+
+Wer ist denn draußen und wer klopfet an,\
+Der mich so leise, so leise wecken kann?\
+Das ist der Herzallerliebste dein,\
+Steh auf und laß mich zu dir ein!\
+\
+Was soll ich hier nun länger stehn?\
+Ich seh die Morgenröt aufgehn,\
+Die Morgenröt, zwei helle Stern,\
+Bei meinem Schatz, da wär ich gern,\
+bei meiner Herzallerliebsten.\
+\
+Das Mädchen stand auf und ließ ihn ein;\
+Sie heißt ihn auch wilkommen sein.\
+Willkommen, lieber Knabe mein,\
+So lang hast du gestanden!\
+\
+Sie reicht ihm auch die schneeweiße Hand.\
+Von ferne sang die Nachtigall\
+Das Mädchen fing zu weinen an.\
+\
+Ach weine nicht, du Liebste mein,\
+Aufs Jahr sollst du mein eigen sein.\
+Mein Eigen sollst du werden gewiß,\
+Wie's keine sonst auf Erden ist.\
+O Lieb auf grüner Erden.\
+\
+Ich zieh in Krieg auf grüner Heid,\
+Die grüne Heide, die ist so weit.\
+Allwo dort die schönen Trompeten blasen,\
+Da ist mein Haus, von grünem Rasen.
+
+<!--EndFragment-->
