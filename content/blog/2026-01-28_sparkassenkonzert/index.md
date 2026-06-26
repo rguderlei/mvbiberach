@@ -9,7 +9,7 @@ banner: melanie-mayer.jpg
 ---
 Hier der Link zu einem Interview mit dem Autor Philipp Ther und Andreas Winter
 
-[https://urldefense.com/v3/**https:/riedelkom-my.sharepoint.com/:v:/g/personal/riedel_riedelkommunikation_de/IQCURIiM77QAQLZDiySJR94yAROoXE2XLbhKa6jIw9r5bpY?e=T6t9d7&referrer=Outlook.Win32&referrerScenario=email-linkwithembed**;!!OCCqlmI3QNI4MA!yQz-rBormUyEX4iHiLiWz_3nSCgvCSB19nja33cYCosfpdxmGS7eg-PIfDxd00mUEya07WIJlwu61y5DgrEvE9-AZc1KXz--6w$](https://urldefense.com/v3/__https:/riedelkom-my.sharepoint.com/:v:/g/personal/riedel_riedelkommunikation_de/IQCURIiM77QAQLZDiySJR94yAROoXE2XLbhKa6jIw9r5bpY?e=T6t9d7&referrer=Outlook.Win32&referrerScenario=email-linkwithembed__;!!OCCqlmI3QNI4MA!yQz-rBormUyEX4iHiLiWz_3nSCgvCSB19nja33cYCosfpdxmGS7eg-PIfDxd00mUEya07WIJlwu61y5DgrEvE9-AZc1KXz--6w$)
+<https://riedelkom-my.sharepoint.com/:v:/g/personal/riedel_riedelkommunikation_de/IQAYp635H450Q5KmHBzCEyOiAcJZZp8D2ssdYOZTqyN2f9g?e=eAkd0Q&referrer=Outlook.Win32&referrerScenario=email-linkwithembed>
 
 Am Samstag, 11. Juli 2026, lädt der Musikverein Biberach zum diesjährigen Sparkassenkonzert in den Spitalhof. Das Sinfonieorchester spielt unter der Leitung von Chiara Tauber und Musikdirektor Andreas Winter, Solistin ist die Sopranistin Melanie Mayer. Beginn ist um 21 Uhr.\
 Das Programm wurde inspiriert vom Buch „Der Klang der Monarchie – Eine musikalische Geschichte des Habsburgerreiches“ von Philipp Ther. Werke von Mozart bis Korngold werden einen weiten musikalisch-geschichtlichen Bogen spannen.\
