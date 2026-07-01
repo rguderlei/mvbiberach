@@ -1,8 +1,7 @@
-+++
-title = "Geschichte"
-type = "page"
-+++
-
+---
+title: Geschichte
+type: page
+---
 1768 Erste Aufzeichnung des Johann Maximilian Kick (Quelle: August Bopp 1930) über eine Zusammenkunft von Musikern beim Zinkenisten Wittich, es trafen sich von Klock (Bürgermeister), Fischer, Maximilian Kick, Kraiß, Konrektor und gewesener Kantor sowie etliche Schüler und andere Liebhaber der Musik
 
 Erster musikalischer Leiter Präzeptor Johann Georg Doll (gestorben 1771 )
@@ -17,7 +16,7 @@ Erster musikalischer Leiter Präzeptor Johann Georg Doll (gestorben 1771 )
 
 1817 Musikdirektor Jakob Friedrich Kick, der führte mit dem Orchester u.a. Webers Freischütz und Boieldieus „Johann von Paris“ auf
 
-1876 Musikdirektor Christian Braun
+1876 übernimmt Karl Linder das Dirigat der Musikgesellschaft Union. Christian Braun, der einige Konzerte organisiert und dirigiert, führt in diesem Jahr in Biberach erstmals eine Sinfonie **öffentlich** auf: es war die Sinfonie Nr. 86 D-Dur von Joseph Haydn
 
 1898 Musikdirektor Ferdinand Buttschardt führte Bachs Matthäus- und Johannespassion auf, gestaltete die Jubiläumsfeier der Stadt zum hundertsten Todestag von Knecht in eindrucksvoller Weise mit, dirigierte 1917 Händels „Judas Maccabäus“, 1924 Kreutzers „Nachtlager in Granada“ und 1926 Lortzings „Waffenschmied“
 
