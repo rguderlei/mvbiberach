@@ -1,6 +1,6 @@
 ---
 title: Tanz durch die Jahrhunderte
-begin: 2026-07-24T08:00:36.093Z
+begin: 2026-07-24T20:00:36.093Z
 end: 2026-07-24T10:00:36.119Z
 categories:
   - Sinfonieorchester
