@@ -1,7 +1,7 @@
 ---
 title: Tanz durch die Jahrhunderte
-begin: 2026-07-22T08:00:36.093Z
-end: 2026-07-13T10:00:36.119Z
+begin: 2026-07-24T08:00:36.093Z
+end: 2026-07-24T10:00:36.119Z
 categories:
   - Sinfonieorchester
 location: Marktplatz Biberach
