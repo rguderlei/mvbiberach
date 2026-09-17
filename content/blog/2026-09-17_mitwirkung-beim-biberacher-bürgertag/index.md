@@ -1,7 +1,7 @@
 ---
 title: Mitwirkung beim Biberacher Bürgertag
-begin: 2026-10-08T12:00:00.000Z
-end: 2026-10-08T12:00:00.000Z
+begin: 2026-10-08T18:00:00.000Z
+end: 2026-10-08T20:00:00.000Z
 categories:
   - Sinfonieorchester
 location: Stadthalle Biberach
