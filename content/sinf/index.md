@@ -38,8 +38,8 @@ Petra Zimmermann
 
 ### Stellvertretende Dirigentin
 
-Chiara Tauber
+Theresia Weber
 
 ### Konzertmeisterin
 
-Chiara Tauber
+Theresia Weber
