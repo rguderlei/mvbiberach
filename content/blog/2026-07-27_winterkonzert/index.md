@@ -1,6 +1,6 @@
 ---
 title: Winterkonzert
-begin: 2027-01-24T18:00:05.522Z
+begin: 2027-01-24T17:00:05.522Z
 end: 2027-01-24T20:00:05.536Z
 categories:
   - Sinfonieorchester
