@@ -1,7 +1,7 @@
 baseURL = 'http://example.org/'
-languageCode = 'de-de'
+Site.Language.Locale = 'de-de'
 title = 'Musikverein Biberach e.V.'
-theme = 'universal'
+theme = ['universal', "hugo-shortcode-gallery"]
 DefaultContentLanguage = "de"
 
 [markup.goldmark.renderer]
