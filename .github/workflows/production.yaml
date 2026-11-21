@@ -55,7 +55,7 @@ jobs:
             --gc \
             --minify
       - name: Rsync Deployments Action
-        uses: Burnett01/rsync-deployments@9
+        uses: burnett01/rsync-deployments@v9
         with:
           switches: -avzr --delete --omit-dir-times --no-perms
           path: public/
