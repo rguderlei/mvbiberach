@@ -41,7 +41,7 @@ jobs:
       - name: Install Dart Sass Embedded
         run: sudo snap install dart-sass-embedded
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
         with:
           submodules: recursive
           fetch-depth: 0
@@ -55,7 +55,7 @@ jobs:
             --gc \
             --minify
       - name: Rsync Deployments Action
-        uses: Burnett01/rsync-deployments@7.0.1
+        uses: Burnett01/rsync-deployments@9
         with:
           switches: -avzr --delete --omit-dir-times --no-perms
           path: public/
